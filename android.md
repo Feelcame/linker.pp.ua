@@ -1,9 +1,15 @@
 # Android software
+__________________
 ## Офис
 _проги для работы с текстом_
-1. [MS Office](#test)
-1. [Notepad++](/test)
-1. [ABYY FineReader](index)
+
+* [MS Office](#test)
+  * Word
+  * Exel
+  * PowerPoint
+* [Notepad++](/test)
+* [ABYY FineReader](index)
+
 ## Мультимедиа
 `Программы для прослушивания музыки, просмотра видео и т.д.`
 * [PotPlayer](http://tegos.ru)
