@@ -1,21 +1,12 @@
 # Android software
-## Список
-
-**Офис**
-
+## Офис
 _проги для работы с текстом_
-
-* [MS Office](#test)
-* [Notepad++](/test)
-* [ABYY FineReader](#)
-
-**-Мультимедиа-**
-
+1. [MS Office](#test)
+1. [Notepad++](/test)
+1. [ABYY FineReader](index)
+## Мультимедиа
 `Программы для прослушивания музыки, просмотра видео и т.д.`
-
-
-[TEGOS.RU](http://tegos.ru)
-
-![картинка](/img/logo.jpg)
+* [PotPlayer](http://tegos.ru)
+* ![](/img/logo.jpg)[AIMP](http://aimp.ru)
 
 
