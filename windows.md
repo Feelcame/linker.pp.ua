@@ -24,9 +24,8 @@
 * Download Master
 * uTorrent 2.2.1
 * NetWorx
-* Te
 * 
-### Общение
+## Общение
 * Telegram
 * Skype
 
