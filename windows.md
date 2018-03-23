@@ -8,8 +8,8 @@
 [CD/DVD](#cddvd-образы-загрузочные-флешки) ||
 [Драйверы](#драйверы)
 ### Офис
-* Microsoft Office - оф.сайт - torrent - nnm - rutracker
-* Notepad++ - оф.сайт - torrent - nnm - rutracker
+* Microsoft Office - [nnm](#nnm)
+* Notepad++ - [оф.сайт](#npp) - nnm - rutracker
 * 
 
 ### Мультимедиа
@@ -24,7 +24,9 @@ Audacity | оф.сайт | torrent | nnm | rutracker
 ### Интернет
 * Браузеры
   * Chrome
+    * Расширения
   * Firefox
+  
 * Download Master
 * uTorrent 2.2.1
 * NetWorx
