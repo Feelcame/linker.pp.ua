@@ -1,7 +1,3 @@
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
 # Windows soft
 Здеся представлены ознакомительные ссылки на программы, которые я использую сам.  
 [Офис](#офис) ||
