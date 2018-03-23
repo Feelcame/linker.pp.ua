@@ -8,7 +8,10 @@
 [CD/DVD](#cddvd-образы-загрузочные-флешки) ||
 [Драйверы](#драйверы)
 ## Офис
-* Microsoft Office
+* Microsoft Office 
+
+|-
+|-оф.сайт | torrent | nnm | rutracker 
 * Notepad++
 * 
 
