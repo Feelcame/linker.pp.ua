@@ -8,15 +8,18 @@
 [CD/DVD](#cddvd-образы-загрузочные-флешки) ||
 [Драйверы](#драйверы)
 ### Офис
-* Microsoft Office | оф.сайт | torrent | nnm | rutracker
-* Notepad++ | оф.сайт | torrent | nnm | rutracker
+* Microsoft Office - оф.сайт - torrent - nnm - rutracker
+* Notepad++ - оф.сайт - torrent - nnm - rutracker
 * 
 
 ### Мультимедиа
-* PotPlayer
-* AIMP
-  * AIMP Remote Control Plugin
-* Audacity
+
+Название | оф.сайт | torrent | nnm | rutracker
+---------|---------|---------|-----|-----------
+PotPlayer | оф.сайт | torrent | nnm | rutracker
+AIMP | оф.сайт | torrent | nnm | rutracker
+AIMP Remote Control Plugin | оф.сайт | torrent | nnm | rutracker
+Audacity | оф.сайт | torrent | nnm | rutracker
 
 ### Интернет
 * Браузеры
