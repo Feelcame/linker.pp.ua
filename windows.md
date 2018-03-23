@@ -14,33 +14,33 @@
 * 
 
 ### Мультимедиа
-
-Название | оф.сайт | torrent | nnm | rutracker
----------|---------|---------|-----|-----------
-PotPlayer | оф.сайт | torrent | nnm | rutracker
-AIMP | оф.сайт | torrent | nnm | rutracker
-AIMP Remote Control Plugin | оф.сайт | torrent | nnm | rutracker
-Audacity | оф.сайт | torrent | nnm | rutracker
+* PotPlayer | оф.сайт | rutracker
+* AIMP | оф.сайт
+* AIMP Remote Control Plugin | оф.сайт
+* Audacity - диктофон | оф.сайт | nnm | rutracker
+* FastStone Capture - скриншотер
 
 ### Интернет
 * Браузеры
   * Chrome
-    * Расширения
   * Firefox
-  
+  * Расширения к ним
 * Download Master
 * uTorrent 2.2.1
 * NetWorx
-* 
+* TeamViever
 
 ### Общение
 * Telegram
 * Skype
+* Mozilla Thunderbird
 
 ### Система
 * Total Commander
 * Uninstall Tool
 * Your Uninstaller
+* System Explorer
+* Start8
 * 
 
 ### Безопасность
