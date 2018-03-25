@@ -1,4 +1,5 @@
 ---
+show_downloads: true
 layout: default
 title:  "Windows soft"
 ---
