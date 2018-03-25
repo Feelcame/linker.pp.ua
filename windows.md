@@ -6,19 +6,19 @@ title:  "Windows soft"
 ---
 [Офис](#офис) | [Мультимедиа](#мультимедиа) | [Интернет](#интернет) | [Система](#система) | [Безопасность](#безопасность) | [CD/DVD](#cddvd-образы-загрузочные-флешки) | [Драйверы](#драйверы)  
 Здеся представлены  ознакомительные ссылки на  программы, которые  я использую сам.  
-<hr>
+___
 ### Офис
 * Microsoft Office - [nnm](#nnm)
 * Notepad++ - [оф.сайт](#npp) - nnm - rutracker
 * 
-<hr>
+___
 ### Мультимедиа
 * PotPlayer - оф.сайт - rutracker
 * AIMP - оф.сайт
 * AIMP Remote Control Plugin - оф.сайт
 * Audacity - диктофон - оф.сайт - nnm - rutracker
 * FastStone Capture - скриншотер
-<hr>
+___
 ### Интернет
 * Браузеры
   * Chrome
@@ -28,30 +28,30 @@ title:  "Windows soft"
 * uTorrent 2.2.1
 * NetWorx
 * TeamViever
-<hr>
+___
 ### Общение
 * Telegram
 * Skype
 * Mozilla Thunderbird
-<hr>
-## Система
+___
+### Система
 * Total Commander
 * Uninstall Tool
 * Your Uninstaller
 * System Explorer
 * Start8
 * 
-<hr>
-## Безопасность
+___
+### Безопасность
 * Dr.Web CureIt
 * AdwCleaner
-
-## CD/DVD, образы, загрузочные флешки
+___
+### CD/DVD, образы, загрузочные флешки
 * Rufus
 * UltraISO
 * RusLive dvd
 * 
-<hr>
+___
 ## Драйверы
 * Asus 1015bx
   * видео
