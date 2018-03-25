@@ -3,7 +3,6 @@ layout: main
 title: Soft-RMn
 description: Свободу попугаям!
 show_downloads: true
-
 ---
 
 # Главное
