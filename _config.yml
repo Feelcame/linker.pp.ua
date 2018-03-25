@@ -1,6 +1,6 @@
 title: RMn
 description: Software must be accesible.
-show_downloads:
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-tactile
 copyright: © 2018
