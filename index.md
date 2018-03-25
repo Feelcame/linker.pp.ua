@@ -1,15 +1,15 @@
 ---
 layout: main
-title: Soft-RMn
+title: RMn
 description: Налетай!
-show_downloads: true
+show_downloads: false
 ---
 
 # Главное
 
 На сайте найдете:
-* Программы для Android
-* Программы для Windows
-* Музончик всех времён
-* полезные советы
-* рекламу моего канала с фильмами
+* [Программы для Android](./android.html)
+* [Программы для Windows](/windows.html)
+* [Музончик всех времён](music.html)
+* [полезные советы](#)
+* рекламу [моего канала](#) с фильмами
