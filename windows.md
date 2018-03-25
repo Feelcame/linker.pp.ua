@@ -6,7 +6,8 @@ title:  "Windows soft"
 ---
 
 [Офис](#офис) | [Мультимедиа](#мультимедиа) | [Интернет](#интернет) | [Система](#система) | [Безопасность](#безопасность) | [CD/DVD](#cddvd-образы-загрузочные-флешки) | [Драйверы](#драйверы)  
-Здеся представлены  ознакомительные ссылки на  программы, которые  я использую сам.       
+Здеся представлены  ознакомительные ссылки на  программы, которые  я использую сам. 
+Скачать все одним архивом [тут](#)
 
 ___
 ### Офис
@@ -16,9 +17,9 @@ ___
 
 ___
 ### Мультимедиа
-* PotPlayer - [оф.сайт](#) - [nnm](#) - [rutracker](#)
-* AIMP - [оф.сайт](#)
-* AIMP Remote Control Plugin - [оф.сайт](#)
+* PotPlayer - [оф.сайт](#) - [nnm](#) - [rutracker](#) `всеядный видеоплеер`
+* AIMP - [оф.сайт](#) `плеер музыки`
+* AIMP Remote Control Plugin - [оф.сайт](#) `управление AIMP с телефона`
 * Audacity - [оф.сайт](#) - [nnm](#) - [rutracker](#) `диктофон`
 * FastStone Capture - [nnm](#)(repack от KpoJIuK)  `скриншотер`
 
@@ -27,37 +28,37 @@ ___
 * Браузеры
   * Chrome - [оф.сайт](#) - [biblprog](#)
   * Firefox - [оф.сайт](#) - [biblprog](#)
-  * Расширения к ним [ссылка](#)
-* Download Master - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](#)
-* uTorrent 2.2.1 - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](#)
+  * Расширения к ним - [тут](#)
+* Download Master(repack) - [оф.сайт](#) - [nnm](#) - [rutracker](#)
+* uTorrent 2.2.1 - [оф.сайт](#) - [nnm](#) - [rutracker](#)
 * NetWorx - [оф.сайт](#) - [biblprog](#)
 * TeamViever - [оф.сайт](#)
 
 ___
 ### Общение
-* Telegram - [оф.сайт](#)
+* Telegram - [оф.сайт](#) `лучший месенджер`
 * Skype - [оф.сайт](#) - [adblock](#)
-* Mozilla Thunderbird - [оф.сайт](#)
+* Mozilla Thunderbird - [оф.сайт](#) `почтовик`
 
 ___
 ### Система
-* Total Commander - [оф.сайт](#) - [PowerPack-nnm](#) - [PowerPack-rutracker](#)
+* Total Commander PowerPack - [оф.сайт](#) - [nnm](#) - [rutracker](#)
 * Uninstall Tool - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](#)
-* Your Uninstaller - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](#)
+* Your Uninstaller - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](#) `лучшая удалялка`
 * System Explorer  - [оф.сайт](#)
-* Start8 (repack) - [оф.сайт](#) - [nnm](#) - [rutracker](#)
+* Start8 (repack) - [оф.сайт](#) - [nnm](#) - [rutracker](#) `кнопка пуск на Win8`
 * 
 ___
 ### Безопасность
-* Dr.Web CureIt - [оф.сайт](#) - [biblprog](#)
-* AdwCleaner - [оф.сайт](#) - [biblprog](#)
+* Dr.Web CureIt - [оф.сайт](#) - [biblprog](#) `утилита для одноразового лечения`
+* AdwCleaner - [оф.сайт](#) - [biblprog](#) `простая удалялка рекламы`
 * MalwareBytes - [оф.сайт](#) - [ключ](#)
 
 ___
 ### CD/DVD, образы, загрузочные флешки
 * Rufus  - [оф.сайт](#)
 * UltraISO (repack) - [nnm](#)
-* RusLive dvd - [оф.сайт](#)
+* RusLive dvd - [оф.сайт](#) `восстановление системы с флешки`
 * 
 ___
 ## Драйверы
