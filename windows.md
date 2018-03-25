@@ -6,20 +6,21 @@ title:  "Windows soft"
 ---
 [Офис](#офис) | [Мультимедиа](#мультимедиа) | [Интернет](#интернет) | [Система](#система) | [Безопасность](#безопасность) | [CD/DVD](#cddvd-образы-загрузочные-флешки) | [Драйверы](#драйверы)  
 Здеся представлены  ознакомительные ссылки на  программы, которые  я использую сам.  
-___
+______
 ### Офис
 * Microsoft Office - [nnm](#nnm)
 * Notepad++ - [оф.сайт](#npp) - [nnm](#) - [rutracker](#)
-* 
-___
+* Abyy FineReader
+______
 ### Мультимедиа
 * PotPlayer - оф.сайт - rutracker
 * AIMP - оф.сайт
 * AIMP Remote Control Plugin - оф.сайт
-* Audacity - диктофон - оф.сайт - nnm - rutracker
-* FastStone Capture - [nnm(repack by KpoJIuK)](#nnm)
+* Audacity - оф.сайт - nnm - rutracker  
+`диктофон`
+* FastStone Capture - [nnm(repack by KpoJIuK)](#nnm)  
 `скриншотер`
-___
+______
 ### Интернет
 * Браузеры
   * Chrome - [оф.сайт](#npp) - [biblprog](#)
@@ -47,6 +48,7 @@ ___
 * Dr.Web CureIt - [оф.сайт](#npp) - [biblprog](#)
 * AdwCleaner  - [оф.сайт](#npp) - [biblprog](#)
 ___
+
 ### CD/DVD, образы, загрузочные флешки
 * Rufus  - [оф.сайт](#npp)
 * UltraISO - [nnm(repack)](#nnm)
