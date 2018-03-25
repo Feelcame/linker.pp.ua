@@ -1,6 +1,7 @@
 ---
 layout: main
-title:  "RNMn-soft"    
+title:  RNMn-soft
+
 ---
 
 # Главное
