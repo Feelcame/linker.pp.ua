@@ -1,5 +1,5 @@
 ---
-show_downloads: true
+show_github: true
 layout: default
 title:  "Windows soft"
 ---
