@@ -1,6 +1,6 @@
 ---
-show_github: true
-show_downloads: true
+show_github:
+show_downloads:
 layout: default
 title:  "Windows soft"
 ---
@@ -34,7 +34,7 @@ title:  "Windows soft"
 * Skype
 * Mozilla Thunderbird
 <hr>
-### Система
+## Система
 * Total Commander
 * Uninstall Tool
 * Your Uninstaller
@@ -42,17 +42,17 @@ title:  "Windows soft"
 * Start8
 * 
 <hr>
-### Безопасность
+## Безопасность
 * Dr.Web CureIt
 * AdwCleaner
 
-### CD/DVD, образы, загрузочные флешки
+## CD/DVD, образы, загрузочные флешки
 * Rufus
 * UltraISO
 * RusLive dvd
 * 
 <hr>
-### Драйверы
+## Драйверы
 * Asus 1015bx
   * видео
   сеть
