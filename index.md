@@ -1,3 +1,8 @@
+---
+layout: main
+title:  "RNMn-soft"    
+---
+
 # Главное
 
 На сайте найдете:
