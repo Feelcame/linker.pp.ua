@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Soft-RMn
-description: Свободу попугаям!
+description: Налетай!
 show_downloads: true
 
 ---
