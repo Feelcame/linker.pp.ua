@@ -1,9 +1,0 @@
----
-layout: default
----
- 
-<h1>Записки в блоге</h1>
-{% for post in site.categories.blog %}
-    <time>{{ post.date | date: "%b %-d, %Y" }}</time>
-    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-{% endfor %}
