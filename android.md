@@ -1,5 +1,7 @@
-# Android software
-__________________
+---
+layout: default
+title:  "Android soft"
+---
 ## Офис
 _проги для работы с текстом_
 
