@@ -1,6 +1,8 @@
 ---
 layout: main
-title:  RNMn-soft
+title: Soft-RMn
+description: Свободу попугаям!
+show_downloads: true
 
 ---
 
