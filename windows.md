@@ -7,13 +7,11 @@ title:  "Windows soft"
 
 [Офис](#офис) | [Мультимедиа](#мультимедиа) | [Интернет](#интернет) | [Система](#система) | [Безопасность](#безопасность) | [CD/DVD](#cddvd-образы-загрузочные-флешки) | [Драйверы](#драйверы)  
 Здеся представлены  ознакомительные ссылки на  программы, которые  я использую сам.
-
 ______
 ### Офис
 * Microsoft Office - [nnm](#nnm)
 * Notepad++ - [оф.сайт](#npp) - [nnm](#) - [rutracker](#)
 * Abyy FineReader
-
 ______
 ### Мультимедиа
 * PotPlayer - оф.сайт - rutracker
@@ -33,12 +31,12 @@ ______
 * uTorrent 2.2.1 - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
 * NetWorx - [оф.сайт](#npp) - [biblprog](#)
 * TeamViever - [оф.сайт](#npp)
-___
+_______________
 ### Общение
 * Telegram - [оф.сайт](#npp)
 * Skype - [оф.сайт](#npp) - [блокировка рекламы](#npp)
 * Mozilla Thunderbird - [оф.сайт](#npp)
-___
+_______________
 ### Система
 * Total Commander - [оф.сайт](#npp) - [PowerPack-nnm](#npp) - [PowerPack-rutracker](#npp)
 * Uninstall Tool - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
