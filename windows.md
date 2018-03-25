@@ -8,39 +8,38 @@ title:  "Windows soft"
 [Офис](#офис) | [Мультимедиа](#мультимедиа) | [Интернет](#интернет) | [Система](#система) | [Безопасность](#безопасность) | [CD/DVD](#cddvd-образы-загрузочные-флешки) | [Драйверы](#драйверы)  
 Здеся представлены  ознакомительные ссылки на  программы, которые  я использую сам.       
 
-______
+___
 ### Офис
 * Microsoft Office - [nnm](#nnm)
 * Notepad++ - [оф.сайт](#npp) - [nnm](#) - [rutracker](#)
-* Abyy FineReader   
+* Abyy FineReader -  [nnm](#)
 
-______
+___
 ### Мультимедиа
-* PotPlayer - оф.сайт - rutracker
-* AIMP - оф.сайт
-* AIMP Remote Control Plugin - оф.сайт
-* Audacity - оф.сайт - nnm - rutracker  
-`диктофон`
-* FastStone Capture - [nnm(repack by KpoJIuK)](#nnm)  `скриншотер`
+* PotPlayer - [оф.сайт](#npp) - [nnm](#) - [rutracker](#)
+* AIMP - [оф.сайт](#npp)
+* AIMP Remote Control Plugin - [оф.сайт](#npp)
+* Audacity - [оф.сайт](#npp) - [nnm](#) - [rutracker](#) `диктофон`
+* FastStone Capture - [nnm](#nnm)(repack от KpoJIuK)  `скриншотер`
 
-______
+___
 ### Интернет
 * Браузеры
   * Chrome - [оф.сайт](#npp) - [biblprog](#)
   * Firefox - [оф.сайт](#npp) - [biblprog](#)
-  * [Расширения к ним](#npp)
+  * Расширения к ним [ссылка](#npp)
 * Download Master - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
 * uTorrent 2.2.1 - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
 * NetWorx - [оф.сайт](#npp) - [biblprog](#)
 * TeamViever - [оф.сайт](#npp)
 
-_______________
+___
 ### Общение
 * Telegram - [оф.сайт](#npp)
 * Skype - [оф.сайт](#npp) - [блокировка рекламы](#npp)
 * Mozilla Thunderbird - [оф.сайт](#npp)
 
-_______________
+___
 ### Система
 * Total Commander - [оф.сайт](#npp) - [PowerPack-nnm](#npp) - [PowerPack-rutracker](#npp)
 * Uninstall Tool - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
