@@ -21,7 +21,7 @@ ___
 * AIMP - [оф.сайт](#) `плеер музыки`
 * AIMP Remote Control Plugin - [оф.сайт](#) `управление AIMP с телефона`
 * Audacity - [оф.сайт](#) - [nnm](#) - [rutracker](#) `диктофон`
-* FastStone Capture - [nnm](#)(repack от KpoJIuK)  `скриншотер`
+* FastStone Capture (repack от KpoJIuK) - [nnm](#)  `скриншотер`
 
 ___
 ### Интернет
