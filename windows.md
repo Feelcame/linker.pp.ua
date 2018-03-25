@@ -1,18 +1,13 @@
 ---
 
 ---
-
-<section id="downloads" class="clearfix">
-<a href="#" id="download-zip" class="button"><span>Офис</span></a>
-<a href="#" id="download-tar-gz" class="button"><span>Мультимедиа</span></a>
-</section>
 <hr>
 
 ## Windows soft
 
 [Офис](#офис) | [Мультимедиа](#мультимедиа) | [Интернет](#интернет) | [Система](#система) | [Безопасность](#безопасность) | [CD/DVD](#cddvd-образы-загрузочные-флешки) | [Драйверы](#драйверы)  
 Здеся представлены  ознакомительные ссылки на  программы, которые  я использую сам.  
-
+<hr>
 ### Офис
 * Microsoft Office - [nnm](#nnm)
 * Notepad++ - [оф.сайт](#npp) - nnm - rutracker
