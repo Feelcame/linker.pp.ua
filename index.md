@@ -3,7 +3,6 @@ layout: main
 title: Soft-RMn
 description: Налетай!
 show_downloads: true
-
 ---
 
 # Главное
