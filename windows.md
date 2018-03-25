@@ -36,7 +36,7 @@ ___
 ___
 ### Общение
 * Telegram - [оф.сайт](#)
-* Skype - [оф.сайт](#) - [блокировка рекламы](#)
+* Skype - [оф.сайт](#) - [adblock](#)
 * Mozilla Thunderbird - [оф.сайт](#)
 
 ___
@@ -50,12 +50,13 @@ ___
 ___
 ### Безопасность
 * Dr.Web CureIt - [оф.сайт](#) - [biblprog](#)
-* AdwCleaner  - [оф.сайт](#) - [biblprog](#)
+* AdwCleaner - [оф.сайт](#) - [biblprog](#)
+* MalwareBytes - [оф.сайт](#) - [ключ](#)
 
 ___
 ### CD/DVD, образы, загрузочные флешки
 * Rufus  - [оф.сайт](#)
-* UltraISO - [nnm(repack)](#)
+* UltraISO (repack) - [nnm](#)
 * RusLive dvd - [оф.сайт](#)
 * 
 ___
@@ -66,3 +67,6 @@ ___
   * тачпад
 * с++
 * DirectX
+* Видеокарты
+  * Nvidia
+  * AMD
