@@ -9,7 +9,7 @@ title:  "Windows soft"
 ___
 ### Офис
 * Microsoft Office - [nnm](#nnm)
-* Notepad++ - [оф.сайт](#npp) - nnm - rutracker
+* Notepad++ - [оф.сайт](#npp) - [nnm](#) - [rutracker](#)
 * 
 ___
 ### Мультимедиа
@@ -17,45 +17,46 @@ ___
 * AIMP - оф.сайт
 * AIMP Remote Control Plugin - оф.сайт
 * Audacity - диктофон - оф.сайт - nnm - rutracker
-* FastStone Capture - скриншотер
+* FastStone Capture - [nnm(repack by KpoJIuK)](#nnm)
+`скриншотер`
 ___
 ### Интернет
 * Браузеры
-  * Chrome
-  * Firefox
-  * Расширения к ним
-* Download Master
-* uTorrent 2.2.1
-* NetWorx
-* TeamViever
+  * Chrome - [оф.сайт](#npp) - [biblprog](#)
+  * Firefox - [оф.сайт](#npp) - [biblprog](#)
+  * [Расширения к ним](#npp)
+* Download Master - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
+* uTorrent 2.2.1 - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
+* NetWorx - [оф.сайт](#npp) - [biblprog](#)
+* TeamViever - [оф.сайт](#npp)
 ___
 ### Общение
-* Telegram
-* Skype
-* Mozilla Thunderbird
+* Telegram - [оф.сайт](#npp)
+* Skype - [оф.сайт](#npp) - [блокировка рекламы](#npp)
+* Mozilla Thunderbird - [оф.сайт](#npp)
 ___
 ### Система
-* Total Commander
-* Uninstall Tool
-* Your Uninstaller
-* System Explorer
-* Start8
+* Total Commander - [оф.сайт](#npp) - [PowerPack-nnm](#npp) - [PowerPack-rutracker](#npp)
+* Uninstall Tool - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
+* Your Uninstaller - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
+* System Explorer  - [оф.сайт](#npp)
+* Start8  - [оф.сайт](#npp) - [nnm(repack)](#nnm) - [rutracker](#)
 * 
 ___
 ### Безопасность
-* Dr.Web CureIt
-* AdwCleaner
+* Dr.Web CureIt - [оф.сайт](#npp) - [biblprog](#)
+* AdwCleaner  - [оф.сайт](#npp) - [biblprog](#)
 ___
 ### CD/DVD, образы, загрузочные флешки
-* Rufus
-* UltraISO
-* RusLive dvd
+* Rufus  - [оф.сайт](#npp)
+* UltraISO - [nnm(repack)](#nnm)
+* RusLive dvd - [оф.сайт](#npp)
 * 
 ___
 ## Драйверы
 * Asus 1015bx
   * видео
-  сеть
-  тачпад
+  * сеть
+  * тачпад
 * с++
 * DirectX
