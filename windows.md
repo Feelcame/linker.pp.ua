@@ -40,9 +40,9 @@ ___
 
 ___
 ### Система
-* Total Commander PowerPack - [оф.сайт](#) - [nnm](#) - [rutracker](#)
-* Uninstall Tool - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](#)
-* Your Uninstaller - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](#) `лучшая удалялка`
+* Total Commander PowerPack - [оф.сайт](#) - [nnm](#) - [rutracker](https://rutracker.org/forum/tracker.php?nm=Total%20Commander%20PowerPack)
+* Uninstall Tool - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
+* Your Uninstaller - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
 * System Explorer  - [оф.сайт](#)
 * Start8 (repack) - [оф.сайт](#) - [nnm](#) - [rutracker](#) `кнопка пуск на Win8`
 * 
