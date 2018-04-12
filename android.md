@@ -4,7 +4,7 @@ title:  "Android soft"
 ---
 ## Офис
 * [WPS Office](javascript:nnm(WPS);)
-* [EBookDroid](/test)
+* [EBookDroid](javascript:window.open("/test");)
 
 ## Мультимедиа
 `Программы для прослушивания музыки, просмотра видео и т.д.`
