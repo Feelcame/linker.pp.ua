@@ -3,18 +3,20 @@ layout: default
 title:  "Android soft"
 ---
 ## Офис
-_проги для работы с текстом_
-
-* [MS Office](#test)
-  * Word
-  * Exel
-  * PowerPoint
-* [Notepad++](/test)
-* [ABYY FineReader](index)
+* [WPS Office](javascript:nnm(WPS);)
+* [EBookDroid](/test)
 
 ## Мультимедиа
 `Программы для прослушивания музыки, просмотра видео и т.д.`
-* [PotPlayer](http://tegos.ru)
+* [AIMP](http://tegos.ru)
 * ![](/img/logo.jpg)[AIMP](http://aimp.ru)
 
 
+<script>
+function nnm(name){
+window.open("#"+name);
+}
+function rtr(name){
+window.open("#"+name);
+}
+</script>
