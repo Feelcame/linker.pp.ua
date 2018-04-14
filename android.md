@@ -12,7 +12,8 @@ window.open("#"+name);
 </script>
 ## Офис
 * [WPS Office](javascript:nnm('WPS');)
-* [EBookDroid](javascript:window.open("#test");)
+* [EBookDroid](javascript:nnm(Ebook);)
+* [Test](nnm('Test');)
 
 ## Мультимедиа
 `Программы для прослушивания музыки, просмотра видео и т.д.`
