@@ -2,13 +2,7 @@
 layout: default
 title:  "Android soft"
 ---
-<script>
-function nnm(name){
-window.open("#"+name);
-}
-function rtr(name){
-window.open("#"+name);
-}
+
 </script>
 ## Офис
 * [WPS Office](javascript:nnm('WPS');)
@@ -21,4 +15,10 @@ window.open("#"+name);
 * ![](/img/logo.jpg)[AIMP](http://aimp.ru)
 
 
-
+<script>
+function nnm(name){
+window.open("#"+name);
+}
+function rtr(name){
+window.open("#"+name);
+}
