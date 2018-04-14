@@ -3,7 +3,6 @@ layout: default
 title:  "Android soft"
 ---
 
-</script>
 ## Офис
 * [WPS Office](javascript:nnm('WPS');)
 * [EBookDroid](javascript:nnm(Ebook);)
@@ -22,3 +21,5 @@ window.open("#"+name);
 function rtr(name){
 window.open("#"+name);
 }
+
+</script>
