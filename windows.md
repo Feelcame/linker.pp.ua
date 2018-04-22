@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: downloads
 title:  "Windows soft"
 ---
 
