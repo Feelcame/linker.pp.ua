@@ -9,7 +9,7 @@ title:  "Windows soft"
 
 ___
 ### Офис
-* Microsoft Office - [nnm](javascript:nnm("Microsoft Office repack by kpojluk");)
+* Microsoft Office - [nnm](javascript:nnm("Microsoft Office repack by kpojiuk");)
 * Notepad++ - [оф.сайт](#) - [nnm](javascript:nnm("");) - [rutracker](#)
 * Abyy FineReader -  [nnm](javascript:nnm("");)
 
