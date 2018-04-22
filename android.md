@@ -3,6 +3,7 @@ layout: default
 title:  "Android soft"
 ---
 
+<!--
 <script>
 var word;
 function nnm(name){
@@ -15,10 +16,10 @@ document.forms[0].submit();
 <input name="f" type="hidden" value="-1">
 <input name="nm" type="hidden" value="javascript: return word;">
 </form>
-
+-->
 
 ## Офис
-* [WPS Office](javascript:nnm('WPS');)
+* [WPS Office](javascript:nnm("WPS");)
 * [EBookDroid](javascript:rtr("Ebook");)
 * [Test](nnm('Test');)
 
@@ -32,5 +33,7 @@ document.forms[0].submit();
 function rtr(name){
 window.open("https://rutracker.org/forum/tracker.php?nm="+name);
 }
-
+function nnm(name){
+window.open("http://nnm-club.me/forum/tracker.php?nm="+name);
+}
 </script>
