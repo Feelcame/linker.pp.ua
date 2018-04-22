@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: home
 title: RMn
 description: Налетай!
 show_downloads: false
@@ -12,5 +12,5 @@ show_downloads: false
 * [Программы для Windows](/windows.html)
 * [Расширения к браузерам](/addons.html)
 * [Музончик всех времён](music.html)
-* [полезные советы](#)
+* [Электронные схемы](#)
 * рекламу [моего канала](https://t.me/FilmsRM) с фильмами
