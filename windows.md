@@ -9,9 +9,9 @@ title:  "Windows soft"
 
 ___
 ### Офис
-* Microsoft Office - [nnm](#)
-* Notepad++ - [оф.сайт](#) - [nnm](#) - [rutracker](#)
-* Abyy FineReader -  [nnm](#)
+* Microsoft Office - [nnm](javascript:nnm("Microsoft Office repack by kpojluk");)
+* Notepad++ - [оф.сайт](#) - [nnm](javascript:nnm("");) - [rutracker](#)
+* Abyy FineReader -  [nnm](javascript:nnm("");)
 
 ___
 ### Мультимедиа
@@ -30,7 +30,7 @@ ___
 * Download Master(repack) - [оф.сайт](#) - [nnm](#) - [rutracker](#)
 * uTorrent 2.2.1 - [оф.сайт](#) - [nnm](#) - [rutracker](#)
 * NetWorx - [оф.сайт](#) - [biblprog](#)
-* TeamViever - [оф.сайт](#)
+* TeamViewer - [оф.сайт](#)
 
 ___
 ### Общение
@@ -40,7 +40,7 @@ ___
 
 ___
 ### Система
-* Total Commander PowerPack - [оф.сайт](#) - [nnm](#) - [rutracker](https://rutracker.org/forum/tracker.php?nm=Total%20Commander%20PowerPack)
+* Total Commander PowerPack - [оф.сайт](#) - [nnm](javascript:nnm("Total Commander PowerPack");) - [rutracker](https://rutracker.org/forum/tracker.php?nm=Total%20Commander%20PowerPack)
 * Uninstall Tool - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
 * Your Uninstaller - [оф.сайт](#) - [nnm(repack)](#) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
 * System Explorer  - [оф.сайт](#)
