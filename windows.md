@@ -13,10 +13,10 @@ ___
 * Notepad++ - [оф.сайт](#) - [nnm](javascript:nnm("");) - [rutracker](#)
 * Abyy FineReader -  [nnm](javascript:nnm("");)
 * Sprint Layout - [оф.сайт](#) - [cxem.net](http://cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint Layout");)
-* Splan
-- [оф.сайт](electronic-software-shop.com) 
-- [cxem.net](cxem.net/software/splan.php) 
-- torrents: [nnm](javascript:nnm("");), [rutracker](#), [bteye](#)
+* Splan- 
+[оф.сайт](electronic-software-shop.com) - 
+[cxem.net](cxem.net/software/splan.php) - 
+torrents: [nnm](javascript:nnm("");), [rutracker](#), [bteye](#)
 
 ___
 ### Мультимедиа
