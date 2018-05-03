@@ -49,7 +49,7 @@ ___
 * Uninstall Tool - [оф.сайт](#) - [nnm(repack)](javascript:nnm("Uninstall Tool");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
 * Your Uninstaller - [оф.сайт](#) - [nnm(repack)](javascript:nnm("Your Uninstaller");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
 * System Explorer  - [оф.сайт](http://systemexplorer.net/)
-* Start8 (repack) - [nnm](javascript:nnm("");) `кнопка пуск на Win8`
+* Start8 (repack) - [nnm](javascript:nnm("Start8");) `кнопка пуск на Win8`
 * 
 ___
 ### Безопасность
@@ -77,7 +77,7 @@ NetFramework [оф.сайт](https://www.microsoft.com/ru-RU/download/details.as
   * Nvidia [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
   * AMD [оф.сайт](http://support.amd.com/ru-ru/download)
 *Lenovo e530
-  * Windows 10 LTSB [nnm-club]()
+  * Windows 10 LTSB [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504)
 
 
 
