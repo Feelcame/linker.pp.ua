@@ -74,9 +74,10 @@ ___
 * DirectX [оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
 NetFramework [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
 * Видеокарты
-  * Nvidia
-  * AMD
-
+  * Nvidia [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
+  * AMD [оф.сайт](http://support.amd.com/ru-ru/download)
+*Lenovo e530
+  * Windows 10 LTSB [nnm-club]()
 
 
 
