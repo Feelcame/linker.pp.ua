@@ -22,9 +22,9 @@ ___
 ### Мультимедиа
 * PotPlayer - [оф.сайт](http://potplayer.ru/download/) - [nnm](javascript:nnm("PotPlayer");) `всеядный видеоплеер`
 * AIMP - [оф.сайт](aimp.ru) `плеер музыки`
-* AIMP Remote Control Plugin - [оф.сайт](#) `управление AIMP с телефона`
+* AIMP Remote Control Plugin - [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) `управление AIMP с телефона`
 * Audacity - [biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");) `диктофон`
-* FastStone Capture (repack от KpoJIuK) - [nnm](javascript:nnm("FastStone Capture");)  `скриншотер`
+* FastStone Capture (repack от KpoJIuK) - [nnm](javascript:nnm("FastStone Capture KpoJIuK");)  `скриншотер`
 
 ___
 ### Интернет
@@ -32,15 +32,15 @@ ___
   * Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
   * Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
   * Расширения к ним - [тут](#)
-* Download Master(repack) - [оф.сайт](#) - [nnm](javascript:nnm("Download Master");)
+* Download Master(repack) - [оф.сайт](https://westbyte.com/dm/) - [nnm](javascript:nnm("Download Master KpoJIuK");)
 * uTorrent 2.2.1 - [оф.сайт](#) - [nnm](javascript:nnm("uTorrent");)
 * NetWorx - [оф.сайт](#) - [biblprog](#)
 * TeamViewer - [оф.сайт](#)
 
 ___
 ### Общение
-* Telegram - [оф.сайт](#) `лучший месенджер`
-* Skype - [оф.сайт](#) - [adblock](#)
+* Telegram - [оф.сайт](telegram.org) `лучший месенджер`
+* Skype - [оф.сайт](https://www.skype.com/ru/get-skype/) - [adblock](#)
 * Mozilla Thunderbird - [оф.сайт](#) `почтовик`
 
 ___
