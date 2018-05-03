@@ -70,8 +70,9 @@ ___
   * видео
   * сеть
   * тачпад
-* с++ [nnm(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
-* DirectX
+* с++ [rutracker(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
+* DirectX [оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
+NetFramework [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
 * Видеокарты
   * Nvidia
   * AMD
