@@ -29,8 +29,8 @@ ___
 ___
 ### Интернет
 * Браузеры
-  * Chrome - [оф.сайт](#) - [biblprog](#)
-  * Firefox - [оф.сайт](#) - [biblprog](#)
+  * Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
+  * Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
   * Расширения к ним - [тут](#)
 * Download Master(repack) - [оф.сайт](#) - [nnm](javascript:nnm("Download Master");)
 * uTorrent 2.2.1 - [оф.сайт](#) - [nnm](javascript:nnm("uTorrent");)
