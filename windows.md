@@ -55,13 +55,13 @@ ___
 ### Безопасность
 * Dr.Web CureIt - [оф.сайт](#) - [biblprog](#) `утилита для одноразового лечения`
 * AdwCleaner - [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) - [biblprog](https://biblprog.org.ua/ru/adwcleaner/download/) `простая удалялка рекламы`
-* MalwareBytes - [оф.сайт](#) - [ключ](#)
+* MalwareBytes - [оф.сайт](https://ru.malwarebytes.com/) - [ключ](#)
 * Virustotal uploader - [оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader)
 
 ___
 ### CD/DVD, образы, загрузочные флешки
 * Rufus  - [оф.сайт](https://rufus.akeo.ie/#download)
-* UltraISO (repack) - [nnm](javascript:nnm("UltraISO");)
+* UltraISO - [nnm(repack)](javascript:nnm("UltraISO");)
 * RusLive dvd - [оф.сайт](http://usbtor.ru/viewtopic.php?t=963) `загрузочная флешка`
 * 
 ___
@@ -70,7 +70,7 @@ ___
   * видео
   * сеть
   * тачпад
-* с++
+* с++ [nnm(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
 * DirectX
 * Видеокарты
   * Nvidia
