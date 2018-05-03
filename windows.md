@@ -48,14 +48,15 @@ ___
 * Total Commander PowerPack - [оф.сайт](#) - [nnm](javascript:nnm("Total Commander PowerPack");) - [rutracker](https://rutracker.org/forum/tracker.php?nm=Total%20Commander%20PowerPack)
 * Uninstall Tool - [оф.сайт](#) - [nnm(repack)](javascript:nnm("Uninstall Tool");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
 * Your Uninstaller - [оф.сайт](#) - [nnm(repack)](javascript:nnm("Your Uninstaller");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
-* System Explorer  - [оф.сайт](#)
-* Start8 (repack) - [оф.сайт](#) - [nnm](javascript:nnm("");) `кнопка пуск на Win8`
+* System Explorer  - [оф.сайт](http://systemexplorer.net/)
+* Start8 (repack) - [nnm](javascript:nnm("");) `кнопка пуск на Win8`
 * 
 ___
 ### Безопасность
 * Dr.Web CureIt - [оф.сайт](#) - [biblprog](#) `утилита для одноразового лечения`
 * AdwCleaner - [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) - [biblprog](https://biblprog.org.ua/ru/adwcleaner/download/) `простая удалялка рекламы`
 * MalwareBytes - [оф.сайт](#) - [ключ](#)
+* Virustotal uploader - [оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader)
 
 ___
 ### CD/DVD, образы, загрузочные флешки
