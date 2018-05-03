@@ -10,21 +10,21 @@ title:  "Windows soft"
 ___
 ### Офис
 * Microsoft Office - [nnm](javascript:nnm("Microsoft Office repack by kpojiuk");)
-* Notepad++ - [оф.сайт](#) - [nnm](javascript:nnm("");)
-* Abyy FineReader -  [nnm](javascript:nnm("");)
+* Notepad++ - [оф.сайт](#) - [nnm](javascript:nnm("Notepad++");)
+* Abyy FineReader -  [nnm](javascript:nnm("Abyy FineReader");)
 * Sprint Layout - [оф.сайт](#) - [cxem.net](http://cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint Layout");)
 * Splan - 
 [оф.сайт](electronic-software-shop.com) - 
 [cxem.net](cxem.net/software/splan.php) - 
-torrents: [nnm](javascript:nnm("");), [bteye](#)
+torrents: [nnm](javascript:nnm("Splan");), [bteye](#)
 
 ___
 ### Мультимедиа
-* PotPlayer - [оф.сайт](#) - [nnm](javascript:nnm("");) `всеядный видеоплеер`
-* AIMP - [оф.сайт](#) `плеер музыки`
+* PotPlayer - [оф.сайт](#) - [nnm](javascript:nnm("PotPlayer");) `всеядный видеоплеер`
+* AIMP - [оф.сайт](aimp.ru) `плеер музыки`
 * AIMP Remote Control Plugin - [оф.сайт](#) `управление AIMP с телефона`
-* Audacity - [оф.сайт](#) - [nnm](javascript:nnm("");) `диктофон`
-* FastStone Capture (repack от KpoJIuK) - [nnm](javascript:nnm("");)  `скриншотер`
+* Audacity - [оф.сайт](#) - [nnm](javascript:nnm("Audacity");) `диктофон`
+* FastStone Capture (repack от KpoJIuK) - [nnm](javascript:nnm("FastStone Capture");)  `скриншотер`
 
 ___
 ### Интернет
@@ -32,8 +32,8 @@ ___
   * Chrome - [оф.сайт](#) - [biblprog](#)
   * Firefox - [оф.сайт](#) - [biblprog](#)
   * Расширения к ним - [тут](#)
-* Download Master(repack) - [оф.сайт](#) - [nnm](javascript:nnm("");)
-* uTorrent 2.2.1 - [оф.сайт](#) - [nnm](javascript:nnm("");)
+* Download Master(repack) - [оф.сайт](#) - [nnm](javascript:nnm("Download Master");)
+* uTorrent 2.2.1 - [оф.сайт](#) - [nnm](javascript:nnm("uTorrent");)
 * NetWorx - [оф.сайт](#) - [biblprog](#)
 * TeamViewer - [оф.сайт](#)
 
@@ -46,8 +46,8 @@ ___
 ___
 ### Система
 * Total Commander PowerPack - [оф.сайт](#) - [nnm](javascript:nnm("Total Commander PowerPack");) - [rutracker](https://rutracker.org/forum/tracker.php?nm=Total%20Commander%20PowerPack)
-* Uninstall Tool - [оф.сайт](#) - [nnm(repack)](javascript:nnm("");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
-* Your Uninstaller - [оф.сайт](#) - [nnm(repack)](javascript:nnm("");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
+* Uninstall Tool - [оф.сайт](#) - [nnm(repack)](javascript:nnm("Uninstall Tool");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
+* Your Uninstaller - [оф.сайт](#) - [nnm(repack)](javascript:nnm("Your Uninstaller");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
 * System Explorer  - [оф.сайт](#)
 * Start8 (repack) - [оф.сайт](#) - [nnm](javascript:nnm("");) `кнопка пуск на Win8`
 * 
@@ -60,7 +60,7 @@ ___
 ___
 ### CD/DVD, образы, загрузочные флешки
 * Rufus  - [оф.сайт](#)
-* UltraISO (repack) - [nnm](javascript:nnm("");)
+* UltraISO (repack) - [nnm](javascript:nnm("UltraISO");)
 * RusLive dvd - [оф.сайт](#) `загрузочная флешка`
 * 
 ___
