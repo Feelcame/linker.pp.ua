@@ -20,10 +20,10 @@ torrents: [nnm](javascript:nnm("Splan");), [bteye](#)
 
 ___
 ### Мультимедиа
-* PotPlayer - [оф.сайт](#) - [nnm](javascript:nnm("PotPlayer");) `всеядный видеоплеер`
+* PotPlayer - [оф.сайт](http://potplayer.ru/download/) - [nnm](javascript:nnm("PotPlayer");) `всеядный видеоплеер`
 * AIMP - [оф.сайт](aimp.ru) `плеер музыки`
 * AIMP Remote Control Plugin - [оф.сайт](#) `управление AIMP с телефона`
-* Audacity - [оф.сайт](#) - [nnm](javascript:nnm("Audacity");) `диктофон`
+* Audacity - [biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");) `диктофон`
 * FastStone Capture (repack от KpoJIuK) - [nnm](javascript:nnm("FastStone Capture");)  `скриншотер`
 
 ___
