@@ -54,14 +54,14 @@ ___
 ___
 ### Безопасность
 * Dr.Web CureIt - [оф.сайт](#) - [biblprog](#) `утилита для одноразового лечения`
-* AdwCleaner - [оф.сайт](#) - [biblprog](#) `простая удалялка рекламы`
+* AdwCleaner - [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) - [biblprog](https://biblprog.org.ua/ru/adwcleaner/download/) `простая удалялка рекламы`
 * MalwareBytes - [оф.сайт](#) - [ключ](#)
 
 ___
 ### CD/DVD, образы, загрузочные флешки
-* Rufus  - [оф.сайт](#)
+* Rufus  - [оф.сайт](https://rufus.akeo.ie/#download)
 * UltraISO (repack) - [nnm](javascript:nnm("UltraISO");)
-* RusLive dvd - [оф.сайт](#) `загрузочная флешка`
+* RusLive dvd - [оф.сайт](http://usbtor.ru/viewtopic.php?t=963) `загрузочная флешка`
 * 
 ___
 ## Драйверы
