@@ -77,9 +77,15 @@ NetFramework [оф.сайт](https://www.microsoft.com/ru-RU/download/details.as
   * Nvidia [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
   * AMD [оф.сайт](http://support.amd.com/ru-ru/download)
 *Lenovo e530
-  * Windows 10 LTSB [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504)
+  * Windows 10 LTSB [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `все дрова подтянутся автоматически`
 
-
+___
+## Windows 10 (в оф.версии LTSB выпилен весь metro-шлак)
+* Отключить Firewall
+* Отключить "Защитник"
+* Отключить автозапуск OneDrive
+* Настроить сервер лицензий KMSAuto
+* 
 
 
 
