@@ -50,7 +50,9 @@ ___
 * Your Uninstaller - [оф.сайт](#) - [nnm(repack)](javascript:nnm("Your Uninstaller");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
 * System Explorer  - [оф.сайт](http://systemexplorer.net/)
 * Start8 (repack) - [nnm](javascript:nnm("Start8");) `кнопка пуск на Win8`
-* 
+* Victoria 4.47
+* Furmark
+* CrystalDiscInfo
 ___
 ### Безопасность
 * Dr.Web CureIt - [оф.сайт](#) - [biblprog](#) `утилита для одноразового лечения`
