@@ -82,12 +82,12 @@ NetFramework [оф.сайт](https://www.microsoft.com/ru-RU/download/details.as
   * Windows 10 LTSB [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `все дрова подтянутся автоматически`
 
 ___
-## Windows 10 (в оф.версии LTSB выпилен весь metro-шлак)
+## Windows 10 (в оф.версии LTSB выпилен весь metro-шлак или выпилить его)
 * Отключить Firewall
 * Отключить "Защитник"
 * Отключить автозапуск OneDrive
 * Настроить сервер лицензий KMSAuto
-* 
+* удалить OneDrive
 
 
 
