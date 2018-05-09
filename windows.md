@@ -83,7 +83,7 @@ ___
   * Driver Pack
 * ZverDVD 
 ___
-## Windows 10 (в оф.версии LTSB выпилен весь metro-шлак или выпилить его)
+## Windows 10 (в оф.версии LTSB выпилен весь metro-шлак или выпилить его) [nnm](http://nnm-club.me/forum/viewforum.php?f=504)
 * Отключить Firewall
 * Отключить "Защитник"
 * Отключить автозапуск OneDrive
