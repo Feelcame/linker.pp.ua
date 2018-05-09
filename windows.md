@@ -81,7 +81,7 @@ ___
 * Lenovo e530
   * Windows 10 LTSB [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `все дрова подтянутся автоматически`
   * Driver Pack
-* ZverDVD 
+* ZverDVD [nnm](javascript:nnm("zverdvd");)
 ___
 ## Windows 10 (в оф.версии LTSB выпилен весь metro-шлак или выпилить его) [nnm](http://nnm-club.me/forum/viewforum.php?f=504)
 * Отключить Firewall
