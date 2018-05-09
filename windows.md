@@ -74,13 +74,14 @@ ___
   * тачпад
 * с++ [rutracker(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
 * DirectX [оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
-NetFramework [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
+* NetFramework [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
 * Видеокарты
   * Nvidia [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
   * AMD [оф.сайт](http://support.amd.com/ru-ru/download)
-*Lenovo e530
+* Lenovo e530
   * Windows 10 LTSB [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `все дрова подтянутся автоматически`
-
+  * Driver Pack
+* ZverDVD 
 ___
 ## Windows 10 (в оф.версии LTSB выпилен весь metro-шлак или выпилить его)
 * Отключить Firewall
