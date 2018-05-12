@@ -10,9 +10,9 @@ title:  "Windows soft"
 ___
 ### Офис
 * Microsoft Office - [nnm](javascript:nnm("Microsoft Office repack by kpojiuk");)
-* Notepad++ - [оф.сайт](https://notepad-plus-plus.org/download/) - [nnm](javascript:nnm("Notepad++");)
+* Notepad++ - [оф.сайт](notepad-plus-plus.org/download/) - [nnm](javascript:nnm("Notepad++");)
 * Abyy FineReader -  [nnm](javascript:nnm("Abyy FineReader");)
-* Sprint Layout - [оф.сайт](#) - [cxem.net](http://cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint Layout");)
+* Sprint Layout - [оф.сайт](electronic-software-shop.com/sprint-layout-60.html) - [cxem.net](cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint Layout");)
 * Splan - 
 [оф.сайт](electronic-software-shop.com) - 
 [cxem.net](cxem.net/software/splan.php) - 
@@ -22,7 +22,7 @@ ___
 ### Мультимедиа
 * PotPlayer - [оф.сайт](http://potplayer.ru/download/) - [nnm](javascript:nnm("PotPlayer");) `всеядный видеоплеер`
 * AIMP - [оф.сайт](aimp.ru) `плеер музыки`
-* AIMP Remote Control Plugin - [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) `управление AIMP с телефона`
+* AIMP Remote Control Plugin - [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) - [Play](https://play.google.com/store/apps/details?id=com.invised.aimp.rc)`управление AIMP с телефона`
 * Audacity - [biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");) `диктофон`
 * FastStone Capture (repack от KpoJIuK) - [nnm](javascript:nnm("FastStone Capture KpoJIuK");)  `скриншотер`
 
@@ -32,10 +32,10 @@ ___
   * Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
   * Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
   * Расширения к ним - [тут](#)
-* Download Master(repack) - [оф.сайт](https://westbyte.com/dm/) - [nnm](javascript:nnm("Download Master KpoJIuK");)
-* uTorrent 2.2.1 - [оф.сайт](#) - [nnm](javascript:nnm("uTorrent");)
-* NetWorx - [оф.сайт](#) - [biblprog](#)
-* TeamViewer - [оф.сайт](#)
+* Download Master - [оф.сайт](https://westbyte.com/dm/) - [nnm](javascript:nnm("Download Master repack");)
+* uTorrent 2.2.1 - [оф.сайт](utorrent.com/) - [biblprog](https://biblprog.org.ua/ru/utorrent/download/) - [nnm](javascript:nnm("uTorrent");)
+* NetWorx - [оф.сайт](https://www.softperfect.com/products/networx/) - [biblprog](https://biblprog.org.ua/ru/networx/download/)
+* TeamViewer - [оф.сайт](https://www.teamviewer.com/ru/download/windows/)
 
 ___
 ### Общение
