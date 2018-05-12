@@ -16,7 +16,7 @@ ___
 * Splan - 
 [оф.сайт](electronic-software-shop.com) - 
 [cxem.net](cxem.net/software/splan.php) - 
-torrents: [nnm](javascript:nnm("Splan");), [bteye](#)
+torrents: [nnm](javascript:nnm("Splan");), [bteye.org](#)
 
 ___
 ### Мультимедиа
@@ -50,9 +50,9 @@ ___
 * Your Uninstaller - [softportal](softportal.com/get-2328-your-uninstaller.html) - [nnm(repack)](javascript:nnm("Your Uninstaller");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
 * System Explorer  - [оф.сайт](http://systemexplorer.net/)
 * Start8 (repack) - [nnm](javascript:nnm("Start8");) `кнопка пуск на Win8`
-* Victoria 4.47 - []()
-* Furmark - []()
-* CrystalDiscInfo - []()
+* Victoria 4.47 - [softportal](http://www.softportal.com/get-40873-victoria.html) `тест hdd`
+* Furmark - [оф.сайт](http://www.ozone3d.net/benchmarks/fur/) `стресс-тест видюхи`
+* CrystalDiscInfo - [biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/) `проверка диска`
 ___
 ### Безопасность
 * Dr.Web CureIt - [оф.сайт](free.drweb.ru/download+cureit+free/) - [biblprog](https://biblprog.org.ua/ru/dr_web_cureit/download/) `утилита для одноразового лечения`
