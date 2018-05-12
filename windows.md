@@ -10,7 +10,7 @@ title:  "Windows soft"
 ___
 ### Офис
 * Microsoft Office - [nnm](javascript:nnm("Microsoft Office repack by kpojiuk");)
-* Notepad++ - [оф.сайт](#) - [nnm](javascript:nnm("Notepad++");)
+* Notepad++ - [оф.сайт](https://notepad-plus-plus.org/download/) - [nnm](javascript:nnm("Notepad++");)
 * Abyy FineReader -  [nnm](javascript:nnm("Abyy FineReader");)
 * Sprint Layout - [оф.сайт](#) - [cxem.net](http://cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint Layout");)
 * Splan - 
