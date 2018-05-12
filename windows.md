@@ -39,23 +39,23 @@ ___
 
 ___
 ### Общение
-* Telegram - [оф.сайт](telegram.org) `лучший месенджер`
+* Telegram - [оф.сайт](https://telegram.org/apps) - [web](web.telegram.org) `лучший месенджер`
 * Skype - [оф.сайт](https://www.skype.com/ru/get-skype/) - [adblock](#)
-* Mozilla Thunderbird - [оф.сайт](#) `почтовик`
+* Mozilla Thunderbird - [оф.сайт](https://www.thunderbird.net/ru/) `почтовик`
 
 ___
 ### Система
-* Total Commander PowerPack - [оф.сайт](#) - [nnm](javascript:nnm("Total Commander PowerPack");) - [rutracker](https://rutracker.org/forum/tracker.php?nm=Total%20Commander%20PowerPack)
-* Uninstall Tool - [оф.сайт](#) - [nnm(repack)](javascript:nnm("Uninstall Tool");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
-* Your Uninstaller - [оф.сайт](#) - [nnm(repack)](javascript:nnm("Your Uninstaller");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
+* Total Commander PowerPack - [оф.сайт](ghisler.com/download.htm) - [nnm](javascript:nnm("Total Commander PowerPack");)
+* Uninstall Tool - [оф.сайт](crystalidea.com/ru/uninstall-tool/) - [nnm](javascript:nnm("Uninstall Tool repack");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
+* Your Uninstaller - [softportal](softportal.com/get-2328-your-uninstaller.html) - [nnm(repack)](javascript:nnm("Your Uninstaller");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) `лучшая удалялка`
 * System Explorer  - [оф.сайт](http://systemexplorer.net/)
 * Start8 (repack) - [nnm](javascript:nnm("Start8");) `кнопка пуск на Win8`
-* Victoria 4.47
-* Furmark
-* CrystalDiscInfo
+* Victoria 4.47 - []()
+* Furmark - []()
+* CrystalDiscInfo - []()
 ___
 ### Безопасность
-* Dr.Web CureIt - [оф.сайт](#) - [biblprog](#) `утилита для одноразового лечения`
+* Dr.Web CureIt - [оф.сайт](free.drweb.ru/download+cureit+free/) - [biblprog](https://biblprog.org.ua/ru/dr_web_cureit/download/) `утилита для одноразового лечения`
 * AdwCleaner - [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) - [biblprog](https://biblprog.org.ua/ru/adwcleaner/download/) `простая удалялка рекламы`
 * MalwareBytes - [оф.сайт](https://ru.malwarebytes.com/) - [ключ](#)
 * Virustotal uploader - [оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader)
@@ -80,15 +80,16 @@ ___
   * AMD [оф.сайт](http://support.amd.com/ru-ru/download)
 * Lenovo e530
   * Windows 10 LTSB [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `все дрова подтянутся автоматически`
-  * Driver Pack
+  * Driver Pack - [оф.сайт](https://drp.su/ru)
 * ZverDVD [nnm](javascript:nnm("zverdvd");)
 ___
-## Windows 10 (в оф.версии LTSB выпилен весь metro-шлак или выпилить его) [nnm](http://nnm-club.me/forum/viewforum.php?f=504)
+## Windows 10 [nnm](http://nnm-club.me/forum/viewforum.php?f=504)
 * Отключить Firewall
 * Отключить "Защитник"
 * Отключить автозапуск OneDrive
 * Настроить сервер лицензий KMSAuto
 * удалить OneDrive
+* Отключить сервис абновлений
 
 
 
