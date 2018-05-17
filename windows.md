@@ -54,6 +54,8 @@ ___
 * Victoria 4.47 - [softportal](http://www.softportal.com/get-40873-victoria.html) `тест hdd`
 * Furmark - [оф.сайт](http://www.ozone3d.net/benchmarks/fur/) `стресс-тест видюхи`
 * CrystalDiscInfo - [biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/) `проверка диска`
+* Moo0 Bottleneck - [оф.сайт](http://www.moo0.com/software/SystemMonitor) `мониторинг ресурсов ПК`
+* HWInfo - [оф.сайт](https://www.hwinfo.com/download.php) - `конкуренты: AIDA64, Everest`
 
 ___
 ### Безопасность
