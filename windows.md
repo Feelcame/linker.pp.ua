@@ -72,7 +72,7 @@ ___
 * RusLive DVD by Nikzzz - [usbtor](http://usbtor.ru/viewtopic.php?t=963) `очень быстрый liveUsb`
 
 ___
-## Драйверы
+##  Драйверы
 * Asus 1015bx - [тут](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/) `видео, сеть, тачпад`
 * с++ - [rutracker(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
 * DirectX - [оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
