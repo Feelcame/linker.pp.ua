@@ -69,7 +69,8 @@ ___
 * Rufus  - [оф.сайт](https://rufus.akeo.ie/#download)
 * UltraISO - [nnm(repack)](javascript:nnm("UltraISO");)
 * RusLive dvd - [оф.сайт](http://usbtor.ru/viewtopic.php?t=963) `загрузочная флешка`
-* 
+* RusLive DVD by Nikzzz - [usbtor](http://usbtor.ru/viewtopic.php?t=963) `очень быстрый liveUsb`
+
 ___
 ## Драйверы
 * Asus 1015bx - [тут](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/) `видео, сеть, тачпад`
