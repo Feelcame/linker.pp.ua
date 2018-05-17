@@ -70,23 +70,23 @@ ___
 ___
 ## Драйверы
 * Asus 1015bx - [тут](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/) `видео, сеть, тачпад`
-* с++ [rutracker(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
-* DirectX [оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
-* NetFramework [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
+* с++ - [rutracker(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
+* DirectX - [оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
+* NetFramework - [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
 * Видеокарты
-  * Nvidia [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
-  * AMD [оф.сайт](http://support.amd.com/ru-ru/download)
-* Lenovo e530
-  * Windows 10 LTSB [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `все дрова подтянутся автоматически`
+  * Nvidia - [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
+  * AMD - [оф.сайт](http://support.amd.com/ru-ru/download)
+* Lenovo e530 - [оф.сайт](#)
+  * Windows 10 LTSB - [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `все дрова подтянутся автоматически`
   * Driver Pack - [оф.сайт](https://drp.su/ru) - [поштучно](https://drp.su/ru/hwids) - [network](https://drp.su/ru/info/driverpack-network) - [конкурент](https://devid.info)
-* ZverDVD [nnm](javascript:nnm("zverdvd");)
+* ZverDVD - [nnm](javascript:nnm("zverdvd");) `внутри архива есть хорошая подборка программ WPI`
 
 ___
-## Windows 10 [nnm] - [оф.сайт](#) - [nnm](http://nnm-club.me/forum/viewforum.php?f=504)
+## Windows 10 [nnm] - [оф.сайт](microsoft.com) - [nnm](http://nnm-club.me/forum/viewforum.php?f=504)
 * Отключить Firewall
 * Отключить "Защитник"
 * Отключить автозапуск OneDrive
-* Настроить сервер лицензий KMSAuto [nnm]
+* Настроить сервер лицензий KMSAuto - [nnm](#)
 * Удалить OneDrive
 * Отключить сервис обновлений
 
