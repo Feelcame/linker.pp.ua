@@ -80,6 +80,7 @@ ___
   * Windows 10 LTSB [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `все дрова подтянутся автоматически`
   * Driver Pack - [оф.сайт](https://drp.su/ru) - [поштучно](https://drp.su/ru/hwids) - [network](https://drp.su/ru/info/driverpack-network) - [конкурент](https://devid.info)
 * ZverDVD [nnm](javascript:nnm("zverdvd");)
+
 ___
 ## Windows 10 [nnm](http://nnm-club.me/forum/viewforum.php?f=504)
 * Отключить Firewall
