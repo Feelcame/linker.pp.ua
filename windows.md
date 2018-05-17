@@ -54,6 +54,7 @@ ___
 * Victoria 4.47 - [softportal](http://www.softportal.com/get-40873-victoria.html) `тест hdd`
 * Furmark - [оф.сайт](http://www.ozone3d.net/benchmarks/fur/) `стресс-тест видюхи`
 * CrystalDiscInfo - [biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/) `проверка диска`
+
 ___
 ### Безопасность
 * Dr.Web CureIt - [оф.сайт](free.drweb.ru/download+cureit+free/) - [biblprog](https://biblprog.org.ua/ru/dr_web_cureit/download/) `утилита для одноразового лечения`
