@@ -13,6 +13,7 @@ ___
 * Notepad++ - [оф.сайт](notepad-plus-plus.org/download/) - [nnm](javascript:nnm("Notepad++");)
 * Abyy FineReader -  [nnm](javascript:nnm("Abyy FineReader");)
 * Sprint Layout - [оф.сайт](electronic-software-shop.com/sprint-layout-60.html) - [cxem.net](cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint Layout");)
+* STDU Viewer - [оф.сайт](http://www.stdutility.com/stduviewer.html) - [biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/)
 * Splan - 
 [оф.сайт](electronic-software-shop.com) - 
 [cxem.net](cxem.net/software/splan.php) - 
