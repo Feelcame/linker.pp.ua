@@ -23,7 +23,7 @@ ___
 ### Мультимедиа
 * PotPlayer - [оф.сайт](http://potplayer.ru/download/) - [nnm](javascript:nnm("PotPlayer");) `всеядный видеоплеер`
 * AIMP - [оф.сайт](aimp.ru) `плеер музыки`
-* AIMP Remote Control Plugin - [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) - [Play](https://play.google.com/store/apps/details?id=com.invised.aimp.rc)`управление AIMP с телефона`
+* AIMP Remote Control Plugin - [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) - [маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc) `управление AIMP с телефона`
 * Audacity - [biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");) `диктофон`
 * FastStone Capture (repack от KpoJIuK) - [nnm](javascript:nnm("FastStone Capture KpoJIuK");)  `скриншотер`
 
