@@ -82,7 +82,7 @@ ___
 * ZverDVD [nnm](javascript:nnm("zverdvd");)
 
 ___
-## Windows 10 [nnm](http://nnm-club.me/forum/viewforum.php?f=504)
+## Windows 10 [nnm] - [оф.сайт](#) - (http://nnm-club.me/forum/viewforum.php?f=504)
 * Отключить Firewall
 * Отключить "Защитник"
 * Отключить автозапуск OneDrive
