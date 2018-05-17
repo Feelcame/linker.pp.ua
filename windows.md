@@ -79,7 +79,7 @@ ___
 * Видеокарты
   * Nvidia - [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
   * AMD - [оф.сайт](http://support.amd.com/ru-ru/download)
-* Lenovo e530 - [оф.сайт](#)
+* Lenovo e530 - [оф.сайт](https://pcsupport.lenovo.com/ua/ru/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-edge-e530/downloads)
   * Windows 10 LTSB - [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `все дрова подтянутся автоматически`
   * Driver Pack - [оф.сайт](https://drp.su/ru) - [поштучно](https://drp.su/ru/hwids) - [network](https://drp.su/ru/info/driverpack-network) - [конкурент](https://devid.info)
 * ZverDVD - [nnm](javascript:nnm("zverdvd");) `внутри архива есть хорошая подборка программ WPI`
