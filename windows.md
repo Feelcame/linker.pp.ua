@@ -74,20 +74,20 @@ ___
 ___
 ###  Драйверы
 * Asus 1015bx - [оф.сайт](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/) `видео, сеть, тачпад`
+* Lenovo e530 - [оф.сайт](https://pcsupport.lenovo.com/ua/ru/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-edge-e530/downloads)
 * с++ - [rutracker(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
 * DirectX - [оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
 * NetFramework - [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
 * Видеокарты
   * Nvidia - [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
   * AMD - [оф.сайт](http://support.amd.com/ru-ru/download)
-* Lenovo e530 - [оф.сайт](https://pcsupport.lenovo.com/ua/ru/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-edge-e530/downloads)
-  * Driver Pack - [оф.сайт](https://drp.su/ru) - [поштучно](https://drp.su/ru/hwids) - [network](https://drp.su/ru/info/driverpack-network) - [конкурент](https://devid.info)
+* Driver Pack - [оф.сайт](https://drp.su/ru) - [поштучно](https://drp.su/ru/hwids) - [network](https://drp.su/ru/info/driverpack-network) - [конкурент](https://devid.info)
 
 
 ___
 ### Windows
 * Windows 10 - [оф.сайт](http://microsoft.com/) - [nnm](http://nnm-club.me/forum/viewforum.php?f=504) `качать самую новую версию`
-* Windows 10 LTSB - [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `без Metro-шлака`
+* Windows 10 LTSB - [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `без Metro-шлака. Очень редко обновляется`
 * Windows 7 -  [nnm](http://nnm-club.me/forum/viewforum.php?f=504) - [key](#)`а может семёрка?`
 * Отключить Firewall
 * Отключить "Защитник"
