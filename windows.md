@@ -75,14 +75,13 @@ ___
 ###  Драйверы
 * Asus 1015bx - [оф.сайт](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/) `видео, сеть, тачпад`
 * Lenovo e530 - [оф.сайт](https://pcsupport.lenovo.com/ua/ru/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-edge-e530/downloads)
+* Driver Pack - [оф.сайт](https://drp.su/ru) - [поштучно](https://drp.su/ru/hwids) - [network](https://drp.su/ru/info/driverpack-network) - [конкурент](https://devid.info)
 * с++ - [rutracker(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
 * DirectX - [оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
 * NetFramework - [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
 * Видеокарты
   * Nvidia - [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
   * AMD - [оф.сайт](http://support.amd.com/ru-ru/download)
-* Driver Pack - [оф.сайт](https://drp.su/ru) - [поштучно](https://drp.su/ru/hwids) - [network](https://drp.su/ru/info/driverpack-network) - [конкурент](https://devid.info)
-
 
 ___
 ### Windows
