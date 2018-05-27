@@ -9,15 +9,16 @@ title:  "Windows soft"
 
 ___
 ### Офис
-* Microsoft Office - [nnm](javascript:nnm("Microsoft Office repack by kpojiuk");)
+* Microsoft Office 2007- [nnm](javascript:nnm("Microsoft Office repack by kpojiuk");)
 * Notepad++ - [оф.сайт](http://notepad-plus-plus.org/download/) - [nnm](javascript:nnm("Notepad++");) `продвинутый блокнот`
 * Abyy FineReader -  [nnm](javascript:nnm("Abyy FineReader");) `распознавание текста`
-* Sprint Layout - [оф.сайт](http://electronic-software-shop.com/sprint-layout-60.html) - [cxem.net](cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint Layout");)
+* Sprint Layout - [оф.сайт](http://electronic-software-shop.com/sprint-layout-60.html) - [cxem.net](cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint Layout");) `разводка печатных плат`
 * STDU Viewer - [оф.сайт](http://www.stdutility.com/stduviewer.html) - [biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/) `читалка djvu, pdf, fb2 и других документов`
 * Splan - 
 [оф.сайт](http://electronic-software-shop.com) - 
 [cxem.net](http://cxem.net/software/splan.php) - 
-torrents: [nnm](javascript:nnm("Splan");), [bteye.org](#)
+torrents: [nnm](javascript:nnm("Splan");), [bteye.org](#) `создание чертежей`
+* Фото на документы - [оф.сайт](#) - [biblprog](#)
 
 ___
 ### Мультимедиа
@@ -26,6 +27,8 @@ ___
 * AIMP Remote Control Plugin - [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) - [маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc) `управление AIMP с телефона`
 * Audacity - [biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");) `диктофон`
 * FastStone Capture (repack от KpoJIuK) - [nnm](javascript:nnm("FastStone Capture KpoJIuK");)  `скриншотер`
+* Paint.Net - [оф.сайт](#) - [biblprog](#)
+* Adobe Photoshop - [оф.сайт](#) - [biblprog](#)
 
 ___
 ### Интернет
@@ -56,6 +59,10 @@ ___
 * CrystalDiscInfo - [biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/) `проверка диска`
 * Moo0 Bottleneck - [оф.сайт](http://www.moo0.com/software/SystemMonitor) `мониторинг ресурсов ПК`
 * HWInfo - [оф.сайт](https://www.hwinfo.com/download.php) - `конкуренты: AIDA64, Everest`
+* 7-zip - [оф.сайт](#) - [biblprog](#)
+* WinRar - [оф.сайт](#) - [biblprog](#)
+* WinDirStat - [оф.сайт](#) - [biblprog](#)
+* HxD Hex Editor - [оф.сайт](#) - [biblprog](#)
 
 ___
 ### Безопасность
@@ -70,6 +77,8 @@ ___
 * UltraISO - [nnm(repack)](javascript:nnm("UltraISO");)
 * RusLive dvd - [оф.сайт](http://usbtor.ru/viewtopic.php?t=963) `загрузочная флешка для восстановления`
 * ZverDVD - [nnm](javascript:nnm("zverdvd");) `внутри архива есть хорошая подборка программ WPI`
+* WinSetupFromUSB - [оф.сайт](#) - [biblprog](#)
+* Acronis TrueImage - [оф.сайт](#) - [biblprog](#)
 
 ___
 ###  Драйверы
