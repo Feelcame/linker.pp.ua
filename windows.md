@@ -59,17 +59,17 @@ ___
 * CrystalDiscInfo - [biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/) `проверка диска`
 * Moo0 Bottleneck - [оф.сайт](http://www.moo0.com/software/SystemMonitor) `мониторинг ресурсов ПК`
 * HWInfo - [оф.сайт](https://www.hwinfo.com/download.php) - `конкуренты: AIDA64, Everest`
-* 7-zip - [оф.сайт](#) - [biblprog](https://biblprog.org.ua/ru/7zip/download/) `бесплатный архиватор`
-* WinRar - [оф.сайт](#) - [biblprog](#) `старый добрый архиватор`
-* WinDirStat - [оф.сайт](#) - [biblprog](#) `очистка диска ПК`
-* HxD Hex Editor - [оф.сайт](#) - [biblprog](#) `редактор байткода`
+* 7-zip - [оф.сайт](https://www.7-zip.org/download.html) - [biblprog](https://biblprog.org.ua/ru/7zip/download/) `бесплатный архиватор`
+* WinRar - [оф.сайт](https://www.rarlab.com/download.htm) - [nnm](javascript:nnm("WinRar");) `старый добрый архиватор`
+* WinDirStat - [оф.сайт](https://windirstat.net/download.html) `очистка диска ПК`
+* HxD Hex Editor - [оф.сайт](https://mh-nexus.de/en/hxd/) `редактор байткода`
 
 ___
 ### Безопасность
 * Dr.Web CureIt - [оф.сайт](http://free.drweb.ru/download+cureit+free/) - [biblprog](https://biblprog.org.ua/ru/dr_web_cureit/download/) `утилита для одноразового лечения`
 * AdwCleaner - [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) - [biblprog](https://biblprog.org.ua/ru/adwcleaner/download/) `простая удалялка рекламы`
 * MalwareBytes - [оф.сайт](https://ru.malwarebytes.com/) - [ключ](#)
-* Virustotal uploader - [оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader) `проверка файла всеми антивирусами`
+* Virustotal Uploader - [оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader) `проверка файла всеми антивирусами`
 
 ___
 ### CD/DVD, образы, загрузочные флешки
@@ -77,8 +77,8 @@ ___
 * UltraISO - [nnm(repack)](javascript:nnm("UltraISO");)
 * RusLive dvd - [оф.сайт](http://usbtor.ru/viewtopic.php?t=963) `загрузочная флешка для восстановления`
 * ZverDVD - [nnm](javascript:nnm("zverdvd");) `внутри архива есть хорошая подборка программ WPI`
-* WinSetupFromUSB - [оф.сайт](#) - [biblprog](#)
-* Acronis TrueImage - [оф.сайт](#) - [biblprog](#)
+* WinSetupFromUSB - [оф.сайт](http://www.winsetupfromusb.com/downloads/) - [biblprog](https://biblprog.org.ua/ru/winsetupfromusb/download/)
+* Acronis True Image - [оф.сайт](#) [nnm](javascript:nnm("Acronis True Image");)
 
 ___
 ###  Драйверы
