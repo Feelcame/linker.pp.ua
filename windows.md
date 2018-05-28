@@ -78,7 +78,7 @@ ___
 * RusLive dvd - [оф.сайт](http://usbtor.ru/viewtopic.php?t=963) `загрузочная флешка для восстановления`
 * ZverDVD - [nnm](javascript:nnm("zverdvd");) `внутри архива есть хорошая подборка программ WPI`
 * WinSetupFromUSB - [оф.сайт](http://www.winsetupfromusb.com/downloads/) - [biblprog](https://biblprog.org.ua/ru/winsetupfromusb/download/)
-* Acronis True Image - [оф.сайт](#) [nnm](javascript:nnm("Acronis True Image");)
+* Acronis True Image - [оф.сайт](http://www.acronis.ru/) [nnm](javascript:nnm("Acronis True Image");)
 
 ___
 ###  Драйверы
