@@ -96,7 +96,7 @@ ___
 ### Windows
 * Windows 10 - [оф.сайт](http://microsoft.com/) - [nnm](http://nnm-club.me/forum/viewforum.php?f=504) `качать самую новую версию`
 * Windows 10 LTSB - [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) `без Metro-шлака. Очень редко обновляется`
-* Windows 7 -  [nnm](http://nnm-club.me/forum/viewforum.php?f=504) - [key](#)`а может семёрка?`
+* Windows 7 -  [nnm](http://nnm-club.me/forum/viewforum.php?f=504) - [key](http://nnm-club.me/forum/viewtopic.php?t=156121)`а может семёрка?`
 * Отключить Firewall
 * Отключить "Защитник"
 * Отключить автозапуск OneDrive
