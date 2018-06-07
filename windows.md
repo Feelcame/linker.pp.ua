@@ -57,7 +57,7 @@ ___
 * Victoria 4.47 - [softportal](http://www.softportal.com/get-40873-victoria.html) `тест hdd`
 * Furmark - [оф.сайт](http://www.ozone3d.net/benchmarks/fur/) `стресс-тест видюхи`
 * CrystalDiscInfo - [biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/) `проверка диска`
-* Moo0 Bottleneck - [оф.сайт](http://www.moo0.com/software/SystemMonitor) `мониторинг ресурсов ПК`
+* Moo0 Bottleneck - [оф.сайт](http://www.moo0.com/software/SystemMonitor) - [softportal](http://www.softportal.com/get-21044-moo0-systemmonitor.html)  `мониторинг ресурсов ПК`
 * HWInfo - [оф.сайт](https://www.hwinfo.com/download.php) - `конкуренты: AIDA64, Everest`
 * 7-zip - [оф.сайт](https://www.7-zip.org/download.html) - [biblprog](https://biblprog.org.ua/ru/7zip/download/) `бесплатный архиватор`
 * WinRar - [оф.сайт](https://www.rarlab.com/download.htm) - [nnm](javascript:nnm("WinRar");) `старый добрый архиватор`
