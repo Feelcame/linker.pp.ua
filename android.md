@@ -29,11 +29,10 @@ document.forms[0].submit();
 * ![](/img/logo.jpg)[AIMP](http://aimp.ru)
 
 ## Система
----
+
 Название | Ссылки | Описание
----
+-------- | ------ | --------
 Titanium Backup | [#](4pda) | резервные копии файлов
----
 App Backup and Restore | [#](4pda) | резервные копии файлов
 
 <script>
