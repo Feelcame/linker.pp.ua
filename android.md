@@ -32,8 +32,8 @@ document.forms[0].submit();
 
 Название | Ссылки | Описание
 -------- | ------ | --------
-Titanium Backup | [#](4pda) | резервные копии файлов
-App Backup and Restore | [#](4pda) | резервные копии файлов
+Titanium Backup | [4pda](#) | резервные копии файлов
+App Backup and Restore | [Play Market](#4pda) | резервные копии файлов
 
 <script>
 function rtr(name){
