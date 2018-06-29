@@ -29,12 +29,18 @@ document.forms[0].submit();
 * [AIMP](http://tegos.ru)
 * ![](/img/logo.jpg)[AIMP](http://aimp.ru)
 
-## Система
+**Название** | **Ссылки** | **Описание**
+------------ | ---------- | ------------
+NewPipe | [GitHub](#) [4pda](#) [F-Droid](#) | Легкий клиент Youtube
+AIMP | [оф.сайт](#) - [4pda](#) - [Play-маркет](#) | музыкальный плеер
 
+
+
+## Система
 **Название** | **Ссылки** | **Описание**
 ------------ | ---------- | ------------
 Titanium Backup | [4pda](#) | резервные копии файлов
-App Backup and Restore | [Play Market](#4pda) -  [4pda](#) - [Play Market](#4pda) -  [4pda](#) - [Play Market](#4pda) -  [4pda](#) | резервные копии файлов
+App Backup and Restore | [Play Market](#4pda) -  [4pda](#) - [телега](#) | резервные копии файлов
 
 
 :clock2:
