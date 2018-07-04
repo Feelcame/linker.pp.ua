@@ -24,7 +24,7 @@ ___
 ### Мультимедиа
 
 **Название** | **Ссылки** | **Описание**
------------- | --------- | ------------
+--- | --- | ---
 PotPlayer | [оф.сайт](http://potplayer.ru/download/) - [nnm](javascript:nnm("PotPlayer");) | всеядный видеоплеер
 AIMP | [оф.сайт](http://aimp.ru) | плеер музыки
 AIMP Remote Control Plugin | [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) - [маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc) |управление AIMP с телефона
@@ -38,14 +38,14 @@ ___
 
 **Название** | **Ссылки** | **Описание**
 ------------ | --------- | ------------
-Браузеры
+Браузеры | 
 Chrome | [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
 Firefox | [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
 Расширения к ним | [тут](#)
 Download Master | [оф.сайт](https://westbyte.com/dm/) - [nnm](javascript:nnm("Download Master repack");)
 uTorrent 2.2.1 | [оф.сайт](http://utorrent.com/) - [biblprog](https://biblprog.org.ua/ru/utorrent/download/) - [nnm](javascript:nnm("uTorrent");) - [telega](https://telegram.me/filesbot?start=BQADAgAD5gADvVhYSyhm0rOrBa0BAg)
-NetWorx | [оф.сайт](https://www.softperfect.com/products/networx/) - [biblprog](https://biblprog.org.ua/ru/networx/download/) | `мониторинг скорости интернета`
-TeamViewer | [оф.сайт](https://www.teamviewer.com/ru/download/windows/) | `удаленное управление`
+NetWorx | [оф.сайт](https://www.softperfect.com/products/networx/) - [biblprog](https://biblprog.org.ua/ru/networx/download/) | мониторинг скорости интернета
+TeamViewer | [оф.сайт](https://www.teamviewer.com/ru/download/windows/) | удаленное управление
 
 ___
 ### Общение
