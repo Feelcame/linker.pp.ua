@@ -1,0 +1,35 @@
+table {
+	table-layout:fixed;
+	word-break: break-all;
+	padding: 16px;
+	background-color: white;
+	box-shadow: 0 2px 8px grey;
+}
+
+table h4 {
+	margin: 0;
+}
+
+div#back {
+	width: 64px;
+	height: 64px;
+	float: left;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+div#title {
+	height: 64px;
+	float: left;
+	margin-right: 8px;
+	position: relative;
+	text-align: left;
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
