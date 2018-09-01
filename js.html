@@ -3,7 +3,7 @@
 var w = window.open("./page.html"); // Страница с того же домена
 function loadCode() {
     var code = w.document.documentElement.innerHTML;
-    alert(code);
+    document.body.appendChild(w.cloneNode(true));
     return true;
 }
 if (w.addEventListener) {
@@ -12,3 +12,4 @@ if (w.addEventListener) {
     w.attachEvent("onload", loadCode);
 }
   </script>
+<body>
