@@ -1,1 +1,14 @@
-<script>alert ("Hello");</script>
+<script>
+  //alert ("Hello");
+var w = window.open("./page.html"); // Страница с того же домена
+function loadCode() {
+    var code = w.document.documentElement.innerHTML;
+    alert(code);
+    return true;
+}
+if (w.addEventListener) {
+    w.addEventListener("load", loadCode, false);
+} else {
+    w.attachEvent("onload", loadCode);
+}
+  </script>
