@@ -1,15 +1,8 @@
-<script>
-  //alert ("Hello");
-var w = window.open("./page.html"); // Страница с того же домена
-function loadCode() {
-    var code = w.document.documentElement.innerHTML;
-    document.body.appendChild(w.cloneNode(true));
-    return true;
-}
-if (w.addEventListener) {
-    w.addEventListener("load", loadCode, false);
-} else {
-    w.attachEvent("onload", loadCode);
-}
-  </script>
 <body>
+<script>
+var doc = document.querySelector('link[rel="import"]').import;
+// Grab DOM from doc.html's document.
+var text = doc.querySelector('.doc');
+document.body.appendChild(text.cloneNode(true));
+</script>
+</body>
