@@ -7,7 +7,7 @@ show_downloads: false
 
 # Главное
 
-На сайте найдете:
+### На сайте найдете:
 * [Программы для Android](./android.html)
 * [Программы для Windows](/windows.html)
 * [Расширения к браузерам](/addons.html)
