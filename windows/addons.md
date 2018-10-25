@@ -1,10 +1,15 @@
-Аддоны
+---
+title: Аддоны
+---
 
 ### Расширения Chrome
-* 1
-* 2
+* [dBlock Plus](#)
+* [andex Music Fisher](#)
+* [Yandex Music пульт](#)
+* [Translater](#)
+* [Yandex Acces](#)
 
 ### Расширения Firefox
-* 1
-* 2
+* [NetVideoHunter](#)
+* [AdblockPlus](#)
 
