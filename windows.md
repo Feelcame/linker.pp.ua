@@ -35,7 +35,7 @@ ___
 * Браузеры
   * Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
   * Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
-  * Расширения к ним - [тут](#)
+  * Расширения к ним - [тут](/windows/addons.html)
 * Download Master - [оф.сайт](https://westbyte.com/dm/) - [nnm](javascript:nnm("Download Master repack");)
 * uTorrent 2.2.1 - [оф.сайт](http://utorrent.com/) - [biblprog](https://biblprog.org.ua/ru/utorrent/download/) - [nnm](javascript:nnm("uTorrent");) - [telega](https://telegram.me/filesbot?start=BQADAgAD5gADvVhYSyhm0rOrBa0BAg)
 * NetWorx - [оф.сайт](https://www.softperfect.com/products/networx/) - [biblprog](https://biblprog.org.ua/ru/networx/download/) - `мониторинг скорости интернета`
