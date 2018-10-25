@@ -9,6 +9,14 @@ title:  "Android soft"
 WPS Office | [Play](#) | Офис от китайцев
 EBookDroid | [Play](#) | Всеядная читалка
 
+
+**Название** | **Ссылки** | **Описание**	
+------------ | --------- | ------------	
+PotPlayer | [оф.сайт](http://potplayer.ru/download/) - [nnm](javascript:nnm("PotPlayer");) | всеядный видеоплеер	
+AIMP | [оф.сайт](http://aimp.ru) | плеер музыки	
+AIMP Remote Control Plugin | [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) - [маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc) |управление AIMP с телефона
+
+
 # Мультимедиа
 **Название** | **Ссылки** | **Описание**
 ------------ | --------- | ------------
