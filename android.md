@@ -5,7 +5,7 @@ title:  "Android soft"
 
 ## Офис
 **Название** | **Ссылки** | **Описание**
------------- | ---------- | ------------
+---|---|---
 WPS Office | [Play](#) | Офис от китайцев
 EBookDroid | [Play](#) | Всеядная читалка
 
@@ -50,9 +50,6 @@ ES Explorer v.2.3.6  | [оф.сайт](#) - [4pda](#) - [telega](#) | Файл-�
 
 
 <script>
-function rtr(name){
-window.open("https://rutracker.org/forum/tracker.php?nm="+name);
-}
 function nnm(name){
 window.open("http://nnm-club.me/forum/tracker.php?nm="+name);
 }
