@@ -48,6 +48,19 @@ Titanium Backup | [4pda](#) | резервные копии файлов
 App Backup and Restore | [Play Market](#4pda) -  [4pda](#) - [телега](#) | резервные копии файлов
 
 
+**Название** | **Ссылки** | **Описание**
+------------ | --------- | ------------
+PotPlayer | [оф.сайт](http://potplayer.ru/download/) - [nnm](javascript:nnm("PotPlayer");) | всеядный видеоплеер
+AIMP | [оф.сайт](http://aimp.ru) | плеер музыки
+AIMP Remote Control Plugin | [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) - [маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc) |управление AIMP с телефона
+Audacity | [biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");) | диктофон
+FastStone Capture (от KpoJIuK) | [nnm](javascript:nnm("FastStone Capture KpoJIuK");)  | скриншотер
+Paint.Net | [оф.сайт](http://paintnet.ru/download/) - [biblprog](https://biblprog.org.ua/ru/paint_net/download/)
+Adobe Photoshop | [оф.сайт](http://adobe.com) - [nnm](javascript:nnm("Adobe Photoshop");) | редактор фото
+
+
+
+
 :clock2:
 :clock2:
 
