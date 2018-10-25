@@ -10,7 +10,7 @@ show_downloads: false
 ### На сайте найдете:
 * [Программы для Android](./android.html)
 * [Программы для Windows](/windows.html)
-* [Расширения к браузерам](/addons.html)
+* [Расширения к браузерам](windows/addons.html)
 * [Музончик всех времён](music.html)
 * [Электронные схемы](#)
 * рекламу [моего канала](https://t.me/FilmsRM) с фильмами
