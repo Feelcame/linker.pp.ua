@@ -63,6 +63,7 @@ ___
 * WinRar - [оф.сайт](https://www.rarlab.com/download.htm) - [nnm](javascript:nnm("WinRar");) - `старый добрый архиватор`
 * WinDirStat - [оф.сайт](https://windirstat.net/download.html) - `очистка диска ПК`
 * HxD Hex Editor - [оф.сайт](https://mh-nexus.de/en/hxd/) - `редактор байткода`
+* CCleaner - [nnm](javascript:nnm("CCleaner");) - `очистка реестра`
 
 ___
 ### Безопасность
