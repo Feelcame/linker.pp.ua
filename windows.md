@@ -12,7 +12,7 @@ ___
 * Microsoft Office 2007 - [nnm](javascript:nnm("Microsoft Office 2007 repack by kpojiuk");) - [2007](http://nnm-club.me/forum/viewtopic.php?t=986318) - `документы, таблицы, презентации`
 * Notepad++ - [оф.сайт](http://notepad-plus-plus.org/download/) - [nnm](javascript:nnm("Notepad++");) - `продвинутый блокнот`
 * Abyy FineReader -  [nnm](javascript:nnm("Abyy+FineReader");) `распознавание текста`
-* Sprint Layout - [оф.сайт](http://electronic-software-shop.com/sprint-layout-60.html) - [cxem.net](cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint Layout");) - `разводка печатных плат`
+* Sprint Layout - [оф.сайт](http://electronic-software-shop.com/sprint-layout-60.html) - [cxem.net](cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint+Layout");) - `разводка печатных плат`
 * STDU Viewer - [оф.сайт](http://www.stdutility.com/stduviewer.html) - [biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/) - `читалка djvu, pdf, fb2 и др.`
 * Splan - 
 [оф.сайт](http://electronic-software-shop.com) - 
