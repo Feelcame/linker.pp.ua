@@ -142,30 +142,30 @@ ___
 
 ___
 ### CD/DVD, образы, загрузочные флешки
-* Rufus  -  - `для записи винды на флешку`
+* Rufus  -  - `для записи винды на флешку`  
 [оф.сайт](https://rufus.akeo.ie/#download)
 * UltraISO - 
 [nnm(repack)](javascript:nnm("UltraISO");)
-* RusLive dvd -  - `загрузочная флешка для восстановления`
+* RusLive dvd -  - `загрузочная флешка для восстановления`  
 [оф.сайт](http://usbtor.ru/viewtopic.php?t=963)
-* ZverDVD -  - `внутри архива есть хорошая подборка программ WPI`
+* ZverDVD -  - `внутри архива есть хорошая подборка программ WPI`  
 [nnm](javascript:nnm("zverdvd");)
-* WinSetupFromUSB - 
+* WinSetupFromUSB - `для записи винды на флешку`  
 [оф.сайт](http://www.winsetupfromusb.com/downloads/) - 
 [biblprog](https://biblprog.org.ua/ru/winsetupfromusb/download/)
-* Acronis True Image - 
+* Acronis True Image - `бекап диска целиком`  
 [оф.сайт](http://www.acronis.ru/) 
 [nnm](javascript:nnm("Acronis True Image");)
 
 ___
 ###  Драйверы
-* Asus 1015bx -  - `видео, сеть, тачпад`
+* Asus 1015bx - 
 [оф.сайт](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/)
 * Lenovo e530 - 
 [оф.сайт](https://pcsupport.lenovo.com/ua/ru/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-edge-e530/downloads)
 * Driver Pack - 
-[оф.сайт](https://drp.su/ru) - 
-[поштучно](https://drp.su/ru/hwids) - 
+[оф.сайт](https://drp.su/ru),
+[поштучно](https://drp.su/ru/hwids),
 [network](https://drp.su/ru/info/driverpack-network) - 
 [конкурент](https://devid.info)
 * с++ - 
@@ -182,16 +182,16 @@ ___
 ### Windows
 * Windows 10 - 
 [оф.сайт](http://microsoft.com/) - 
-[nnm](http://nnm-club.me/forum/viewforum.php?f=504) - `качать самую новую версию`
-* Windows 10 LTSB - 
-[nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) - `без Metro-шлака. Очень редко обновляется`
+[nnm](http://nnm-club.me/forum/viewforum.php?f=504)
+* Windows 10 LTSB без плиток - 
+[nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504)
 * Windows 7 - 
 [nnm](http://nnm-club.me/forum/viewforum.php?f=504) - 
-[key](http://nnm-club.me/forum/viewtopic.php?t=156121)  - `а может семёрка?`
+[key](http://nnm-club.me/forum/viewtopic.php?t=156121)
+* Активатор KMSAuto - [nnm](javascript:nnm("KMSAuto");)
 * Отключить Firewall
 * Отключить "Защитник"
 * Отключить автозапуск OneDrive
-* Настроить сервер лицензий KMSAuto - [nnm](javascript:nnm("KMSAuto");)
 * Удалить OneDrive
 * Отключить сервис обновлений
 
