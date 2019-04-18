@@ -20,7 +20,7 @@ ___
 * Abbyy FineReader - 
 [nnm](javascript:nnm("Abbyy+FineReader");).  
 `распознавание текста`
-* Sprint Layout -  
+* Sprint Layout - 
 [оф.сайт](http://electronic-software-shop.com/sprint-layout-60.html), 
 [cxem.net](cxem.net/software/sprint_layout.php), 
 [torrent](javascript:nnm("Sprint+Layout");).  
@@ -36,29 +36,37 @@ torrents:
 [nnm](javascript:nnm("Splan");), 
 [bteye.org](#).  
 `создание чертежей`
-* Фото на документы - `обработка фото`  
+* Фото на документы - 
 [nnm](javascript:nnm("Фото на документы профи");).
+`обработка фото`
 
 ___
 ### Мультимедиа
-* PotPlayer - `всеядный видеоплеер`  
+* PotPlayer - 
 [оф.сайт](http://potplayer.ru/download/), 
-[nnm](javascript:nnm("PotPlayer");)
-* AIMP - `плеер музыки`  
+[nnm](javascript:nnm("PotPlayer");).  
+`всеядный видеоплеер`
+* AIMP - 
 [оф.сайт](http://aimp.ru).
-* AIMP Remote Control Plugin - `управление AIMP с телефона`  
+`плеер музыки`
+* AIMP Remote Control Plugin - 
 [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html), 
-[маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc).
-* Audacity - `диктофон`  
-[biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");).
-* FastStone Capture (от KpoJIuK) - `скриншотер`  
+[маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc).  
+`управление AIMP с телефона`
+* Audacity - 
+[biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");).  
+`диктофон`
+* FastStone Capture (от KpoJIuK) - 
 [nnm](javascript:nnm("FastStone Capture KpoJIuK");).
-* Paint.Net - `рисовалка`  
+`скриншотер`
+* Paint.Net - 
 [оф.сайт](http://paintnet.ru/download/), 
-[biblprog](https://biblprog.org.ua/ru/paint_net/download/)
-* Adobe Photoshop - `редактор фото`  
+[biblprog](https://biblprog.org.ua/ru/paint_net/download/).
+`рисовалка`
+* Adobe Photoshop - 
 [оф.сайт](http://adobe.com), 
 [nnm](javascript:nnm("Adobe Photoshop");).
+`редактор фото`
 
 ___
 ### Интернет
