@@ -14,7 +14,7 @@ title:  "Android soft"
 torrents: 
 [nnm](javascript:nnm("Splan");), [bteye.org](#), 
 [site](http://electronic-software-shop.com).  
-* Splan - `обработка фото` 
+* Splan - `обработка фото`  
 [оф.сайт](http://electronic-software-shop.com),
 [cxem.net](http://cxem.net/software/splan.php), 
 torrents: 
