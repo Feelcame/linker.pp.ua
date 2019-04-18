@@ -3,7 +3,6 @@ layout: default
 title:  "Android soft"
 ---
 
-___
 ## Офис
 * STDU Viewer - `читалка djvu, pdf, fb2 и др.`   
 [оф.сайт](http://www.stdutility.com/stduviewer.html),
