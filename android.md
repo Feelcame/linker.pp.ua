@@ -3,6 +3,20 @@ layout: default
 title:  "Android soft"
 ---
 
+___
+### Офис
+* STDU Viewer - 
+[оф.сайт](http://www.stdutility.com/stduviewer.html) - 
+[biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/) - `читалка djvu, pdf, fb2 и др.`
+* Splan - 
+[оф.сайт](http://electronic-software-shop.com) - 
+[cxem.net](http://cxem.net/software/splan.php) - 
+torrents: 
+[nnm](javascript:nnm("Splan");), [bteye.org](#) - `создание чертежей`
+* Фото на документы - 
+[nnm](javascript:nnm("Фото на документы профи");) - `обработка фото`
+
+
 ## Офис
 
 **Название** | **Ссылки** | **Описание**	
