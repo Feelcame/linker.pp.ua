@@ -32,9 +32,8 @@ ___
 * Splan - 
 [оф.сайт](http://electronic-software-shop.com), 
 [cxem.net](http://cxem.net/software/splan.php), 
-torrents: 
-[nnm](javascript:nnm("Splan");), 
-[bteye.org](#).  
+[bteye.org](#),
+[nnm](javascript:nnm("Splan");).  
 `создание чертежей`
 * Фото на документы - 
 [nnm](javascript:nnm("Фото на документы профи");).  
