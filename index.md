@@ -12,5 +12,5 @@ show_downloads: false
 * [Программы для Windows](/windows.html)
 * [Расширения к браузерам](windows/addons.html)
 * [Музончик всех времён](music.html)
-* [Электронные схемы](#)
+* [Электронные схемы](./radio/)
 * рекламу [моего канала](https://t.me/FilmsRM) с фильмами
