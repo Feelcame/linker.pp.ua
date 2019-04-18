@@ -6,13 +6,13 @@ title:  "Android soft"
 ___
 ### Офис
 * STDU Viewer - 
-[оф.сайт](http://www.stdutility.com/stduviewer.html) ,
+[оф.сайт](http://www.stdutility.com/stduviewer.html),
 [biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/) - `читалка djvu, pdf, fb2 и др.`
 * Splan - 
 [оф.сайт](http://electronic-software-shop.com) - 
 [cxem.net](http://cxem.net/software/splan.php) - 
 torrents: 
-[nnm](javascript:nnm("Splan");), [bteye.org](#) - `создание чертежей`
+[nnm](javascript:nnm("Splan");), [bteye.org](#) - `создание чертежей` 
 [site](http://electronic-software-shop.com) - `обработка фото`
 
 
