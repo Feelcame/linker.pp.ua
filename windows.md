@@ -10,8 +10,8 @@ title:  "Windows soft"
 ___
 ### Офис
 * Microsoft Office 2007 - `документы, таблицы, презентации`  
-[nnm](javascript:nnm("Microsoft Office 2007 repack by kpojiuk");), 
-[2007](http://nnm-club.me/forum/viewtopic.php?t=986318).
+[2007](http://nnm-club.me/forum/viewtopic.php?t=986318),
+[nnm](javascript:nnm("Microsoft Office 2007 repack by kpojiuk");).
 * Notepad++ - `продвинутый блокнот`  
 [оф.сайт](http://notepad-plus-plus.org/download/), 
 [nnm](javascript:nnm("Notepad++");).
@@ -57,9 +57,9 @@ ___
 ___
 ### Интернет
 * Браузеры
-  * Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
-  * Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
-  * Расширения к ним - [тут](/windows/addons.html)
+  ** Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
+  ** Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
+  ** Расширения к ним - [тут](/windows/addons.html)
 * Download Master - [оф.сайт](https://westbyte.com/dm/) - [nnm](javascript:nnm("Download Master repack");)
 * uTorrent 2.2.1 - [оф.сайт](http://utorrent.com/) - [biblprog](https://biblprog.org.ua/ru/utorrent/download/) - [nnm](javascript:nnm("uTorrent");) - [telega](https://telegram.me/filesbot?start=BQADAgAD5gADvVhYSyhm0rOrBa0BAg)
 * NetWorx - [оф.сайт](https://www.softperfect.com/products/networx/) - [biblprog](https://biblprog.org.ua/ru/networx/download/) - `мониторинг скорости интернета`
