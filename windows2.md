@@ -47,7 +47,7 @@ ___
 [nnm](javascript:nnm("PotPlayer");).  
 `всеядный видеоплеер`
 * AIMP - 
-[оф.сайт](http://aimp.ru).
+[оф.сайт](http://aimp.ru).  
 `плеер музыки`
 * AIMP Remote Control Plugin - 
 [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html), 
@@ -57,15 +57,15 @@ ___
 [biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");).  
 `диктофон`
 * FastStone Capture (от KpoJIuK) - 
-[nnm](javascript:nnm("FastStone Capture KpoJIuK");).
+[nnm](javascript:nnm("FastStone Capture KpoJIuK");).  
 `скриншотер`
 * Paint.Net - 
 [оф.сайт](http://paintnet.ru/download/), 
-[biblprog](https://biblprog.org.ua/ru/paint_net/download/).
+[biblprog](https://biblprog.org.ua/ru/paint_net/download/).  
 `рисовалка`
 * Adobe Photoshop - 
 [оф.сайт](http://adobe.com), 
-[nnm](javascript:nnm("Adobe Photoshop");).
+[nnm](javascript:nnm("Adobe Photoshop");).  
 `редактор фото`
 
 ___
