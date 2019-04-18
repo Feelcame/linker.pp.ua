@@ -142,14 +142,12 @@ ___
 
 ___
 ### CD/DVD, образы, загрузочные флешки
-* Rufus  -  - `для записи винды на флешку`  
+* Rufus  - `для записи винды на флешку`  
 [оф.сайт](https://rufus.akeo.ie/#download)
-* UltraISO - 
+* UltraISO - `работа с дисками`
 [nnm(repack)](javascript:nnm("UltraISO");)
 * RusLive dvd -  - `загрузочная флешка для восстановления`  
 [оф.сайт](http://usbtor.ru/viewtopic.php?t=963)
-* ZverDVD -  - `внутри архива есть хорошая подборка программ WPI`  
-[nnm](javascript:nnm("zverdvd");)
 * WinSetupFromUSB - `для записи винды на флешку`  
 [оф.сайт](http://www.winsetupfromusb.com/downloads/) - 
 [biblprog](https://biblprog.org.ua/ru/winsetupfromusb/download/)
@@ -188,7 +186,10 @@ ___
 * Windows 7 - 
 [nnm](http://nnm-club.me/forum/viewforum.php?f=504) - 
 [key](http://nnm-club.me/forum/viewtopic.php?t=156121)
-* Активатор KMSAuto - [nnm](javascript:nnm("KMSAuto");)
+* ZverDVD с набором программ - 
+[nnm](javascript:nnm("zverdvd");)
+* Активатор KMSAuto - 
+[nnm](javascript:nnm("KMSAuto");)
 * Отключить Firewall
 * Отключить "Защитник"
 * Отключить автозапуск OneDrive
