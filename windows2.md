@@ -163,32 +163,41 @@ ___
 
 ___
 ### Безопасность
-* Dr.Web CureIt - `утилита для одноразового лечения`  
+* Dr.Web CureIt - 
 [оф.сайт](http://free.drweb.ru/download+cureit+free/) - 
-[biblprog](https://biblprog.org.ua/ru/dr_web_cureit/download/)
-* AdwCleaner - `простая удалялка рекламы`  
+[biblprog](https://biblprog.org.ua/ru/dr_web_cureit/download/).  
+`утилита для одноразового лечения`
+* AdwCleaner - 
 [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) - 
-[biblprog](https://biblprog.org.ua/ru/adwcleaner/download/)
-* MalwareBytes - `годная антивируска`  
-[оф.сайт](https://ru.malwarebytes.com/) - 
-[ключ](#)
-* Virustotal Uploader - `проверка файла всеми антивирусами`  
-[оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader)
+[biblprog](https://biblprog.org.ua/ru/adwcleaner/download/).  
+`простая удалялка рекламы`
+* MalwareBytes - 
+[оф.сайт](https://ru.malwarebytes.com/),
+[ключ](#).  
+`годная антивируска`
+* Virustotal Uploader - 
+[оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader).  
+`проверка файла всеми антивирусами`  
 
 ___
 ### CD/DVD, образы, загрузочные флешки
-* Rufus  - `для записи винды на флешку`  
-[оф.сайт](https://rufus.akeo.ie/#download).
-* UltraISO - `работа с дисками`  
-[nnm(repack)](javascript:nnm("UltraISO");).
-* RusLive dvd - `загрузочная флешка для восстановления`  
-[оф.сайт](http://usbtor.ru/viewtopic.php?t=963).
-* WinSetupFromUSB - `для записи винды на флешку`  
+* Rufus  - 
+[оф.сайт](https://rufus.akeo.ie/#download).  
+`для записи винды на флешку`
+* UltraISO - 
+[nnm(repack)](javascript:nnm("UltraISO");).  
+`работа с дисками`
+* RusLive dvd - 
+[оф.сайт](http://usbtor.ru/viewtopic.php?t=963).  
+`загрузочная флешка для восстановления`
+* WinSetupFromUSB - 
 [оф.сайт](http://www.winsetupfromusb.com/downloads/),
-[biblprog](https://biblprog.org.ua/ru/winsetupfromusb/download/).
-* Acronis True Image - `бекап диска целиком`  
+[biblprog](https://biblprog.org.ua/ru/winsetupfromusb/download/).  
+`для записи винды на флешку`
+* Acronis True Image - 
 [оф.сайт](http://www.acronis.ru/),
-[nnm](javascript:nnm("Acronis True Image");).
+[nnm](javascript:nnm("Acronis True Image");).  
+`бекап диска целиком`
 
 ___
 ###  Драйверы
