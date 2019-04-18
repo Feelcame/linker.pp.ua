@@ -5,10 +5,10 @@ title:  "Android soft"
 
 
 ## Офис
-* **STDU Viewer**
+* **STDU Viewer** - 
 [оф.сайт](http://www.stdutility.com/stduviewer.html),
 [biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/).  
-читалка djvu, pdf, fb2 и др.
+`читалка djvu, pdf, fb2 и др.`
 * Splan - обработка фото  
 [оф.сайт](http://electronic-software-shop.com),
 [cxem.net](http://cxem.net/software/splan.php), 
