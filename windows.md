@@ -9,11 +9,11 @@ title:  "Windows soft"
 
 ___
 ### Офис
-* Microsoft Office 2007 - 
+* **Microsoft Office 2007** - 
 [2007](http://nnm-club.me/forum/viewtopic.php?t=986318),
 [nnm](javascript:nnm("Microsoft Office 2007 repack by kpojiuk");).  
 `документы, таблицы, презентации`
-* Notepad++ - 
+* **Notepad++** - 
 [оф.сайт](http://notepad-plus-plus.org/download/), 
 [nnm](javascript:nnm("Notepad++");).  
 `продвинутый блокнот`
@@ -41,11 +41,11 @@ ___
 
 ___
 ### Мультимедиа
-* PotPlayer - 
+* **PotPlayer** - 
 [оф.сайт](http://potplayer.ru/download/), 
 [nnm](javascript:nnm("PotPlayer");).  
 `всеядный видеоплеер`
-* AIMP - 
+* **AIMP** - 
 [оф.сайт](http://aimp.ru).  
 `плеер музыки`
 * AIMP Remote Control Plugin - 
@@ -70,20 +70,20 @@ ___
 ___
 ### Интернет
 * Браузеры
-  * Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
+  * **Chrome** - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
   * Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
   * Расширения к ним - [тут](/windows/addons.html)
 * Download Master - 
 [оф.сайт](https://westbyte.com/dm/),
 [nnm](javascript:nnm("Download Master repack");).  
 `качалка файлов`
-* uTorrent 2.2.1 - 
+* **uTorrent 2.2.1** - 
 [оф.сайт](http://utorrent.com/) - 
 [biblprog](https://biblprog.org.ua/ru/utorrent/download/),
 [nnm](javascript:nnm("uTorrent");),
 [telega](https://telegram.me/filesbot?start=BQADAgAD5gADvVhYSyhm0rOrBa0BAg).  
 `качалка торрентов`
-* NetWorx - 
+* **NetWorx** - 
 [оф.сайт](https://www.softperfect.com/products/networx/),
 [biblprog](https://biblprog.org.ua/ru/networx/download/).  
 `мониторинг скорости интернета`
@@ -93,7 +93,7 @@ ___
 
 ___
 ### Общение
-* Telegram - 
+* **Telegram** - 
 [оф.сайт](https://telegram.org/apps),
 [web](web.telegram.org).  
 `лучший месенджер`
@@ -107,11 +107,11 @@ ___
 
 ___
 ### Система
-* Total Commander PowerPack - 
+* **Total Commander PowerPack** - 
 [оф.сайт](http://ghisler.com/download.htm),
 [nnm](javascript:nnm("Total Commander PowerPack");).  
 `файл-менеджер`
-* Uninstall Tool - 
+* **Uninstall Tool** - 
 [оф.сайт](http://crystalidea.com/ru/uninstall-tool/),
 [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274),
 [nnm](javascript:nnm("Uninstall+Tool+repack");).  
@@ -135,14 +135,14 @@ ___
 `стресс-тест видюхи`
 * CrystalDiscInfo - 
 [biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/).  
-* Moo0 Bottleneck - 
+* **Moo0 Bottleneck** - 
 [оф.сайт](http://www.moo0.com/software/SystemMonitor),
 [softportal](http://www.softportal.com/get-21044-moo0-systemmonitor.html).  
 `мониторинг ресурсов ПК`
 * HWInfo - 
 [оф.сайт](https://www.hwinfo.com/download.php).  
 `конкуренты: AIDA64, Everest`  
-* 7-zip - 
+* **7-zip** - 
 [оф.сайт](https://www.7-zip.org/download.html),
 [biblprog](https://biblprog.org.ua/ru/7zip/download/).  
 `бесплатный архиватор`
@@ -150,7 +150,7 @@ ___
 [оф.сайт](https://www.rarlab.com/download.htm),
 [nnm](javascript:nnm("WinRar");),  
 `старый добрый архиватор`  
-* WinDirStat - 
+* **WinDirStat** - 
 [оф.сайт](https://windirstat.net/download.html).  
 `очистка диска ПК`
 * HxD Hex Editor - 
@@ -174,7 +174,7 @@ ___
 [оф.сайт](https://ru.malwarebytes.com/),
 [ключ](#).  
 `годная антивируска`
-* Virustotal Uploader - 
+* **Virustotal Uploader** - 
 [оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader).  
 `проверка файла всеми антивирусами`  
 
