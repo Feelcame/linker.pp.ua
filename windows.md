@@ -60,96 +60,96 @@ ___
   * Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
   * Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
   * Расширения к ним - [тут](/windows/addons.html)
-* Download Master - 
+* Download Master - `качалка файлов`  
 [оф.сайт](https://westbyte.com/dm/),
 [nnm](javascript:nnm("Download Master repack");)
-* uTorrent 2.2.1 - 
+* uTorrent 2.2.1 - `качалка торрентов`  
 [оф.сайт](http://utorrent.com/) - 
 [biblprog](https://biblprog.org.ua/ru/utorrent/download/),
 [nnm](javascript:nnm("uTorrent");),
 [telega](https://telegram.me/filesbot?start=BQADAgAD5gADvVhYSyhm0rOrBa0BAg)
-* NetWorx - 
+* NetWorx - `мониторинг скорости интернета`  
 [оф.сайт](https://www.softperfect.com/products/networx/),
-[biblprog](https://biblprog.org.ua/ru/networx/download/) - `мониторинг скорости интернета`
-* TeamViewer,
-[оф.сайт](https://www.teamviewer.com/ru/download/windows/) - `удаленное управление`
+[biblprog](https://biblprog.org.ua/ru/networx/download/)
+* TeamViewer - `удаленное управление`  
+[оф.сайт](https://www.teamviewer.com/ru/download/windows/)
 
 ___
 ### Общение
-* Telegram - 
+* Telegram - `лучший месенджер`  
 [оф.сайт](https://telegram.org/apps),
-[web](web.telegram.org) - `лучший месенджер`
-* Skype 
+[web](web.telegram.org)
+* Skype - `звонилка и файлообменник`   
 [оф.сайт](https://www.skype.com/ru/get-skype/),
-[adblock](#) - `звонилка и файлообменник`
-* Mozilla Thunderbird,
-[оф.сайт](https://www.thunderbird.net/ru/) - `почтовик`
+[adblock](#)
+* Mozilla Thunderbird - `почтовик`  
+[оф.сайт](https://www.thunderbird.net/ru/)
 
 ___
 ### Система
-* Total Commander PowerPack - `файл-менеджер`
+* Total Commander PowerPack - `файл-менеджер`  
 [оф.сайт](http://ghisler.com/download.htm),
 [nnm](javascript:nnm("Total Commander PowerPack");)
-* Uninstall Tool - `надежная удалялка`
+* Uninstall Tool - `надежная удалялка`  
 [оф.сайт](http://crystalidea.com/ru/uninstall-tool/),
 [nnm](javascript:nnm("Uninstall Tool repack");),
 [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
-* Your Uninstaller - `лучшая удалялка`
+* Your Uninstaller - `лучшая удалялка`  
 [softportal](http://softportal.com/get-2328-your-uninstaller.html),
 [nnm(repack)](javascript:nnm("Your Uninstaller");),
 [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223)
-* System Explorer - `продвинутый диспетчер задач`
+* System Explorer - `продвинутый диспетчер задач`  
 [оф.сайт](http://systemexplorer.net/)
-* Start8 (repack) - `кнопка пуск на Win8`
+* Start8 (repack) - `кнопка пуск на Win8`  
 [nnm](javascript:nnm("Start8");)
-* Victoria 4.47 - `тест hdd`
+* Victoria 4.47 - `тест hdd`  
 [softportal](http://www.softportal.com/get-40873-victoria.html)
-* Furmark - `стресс-тест видюхи`
+* Furmark - `стресс-тест видюхи`  
 [оф.сайт](http://www.ozone3d.net/benchmarks/fur/)
-* CrystalDiscInfo - `проверка диска`
+* CrystalDiscInfo - `проверка диска`  
 [biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/)
-* Moo0 Bottleneck - `мониторинг ресурсов ПК`
+* Moo0 Bottleneck - `мониторинг ресурсов ПК`  
 [оф.сайт](http://www.moo0.com/software/SystemMonitor),
 [softportal](http://www.softportal.com/get-21044-moo0-systemmonitor.html)
-* HWInfo - `конкуренты: AIDA64, Everest`
+* HWInfo - `конкуренты: AIDA64, Everest`  
 [оф.сайт](https://www.hwinfo.com/download.php)
-* 7-zip - `бесплатный архиватор`
+* 7-zip - `бесплатный архиватор`  
 [оф.сайт](https://www.7-zip.org/download.html),
 [biblprog](https://biblprog.org.ua/ru/7zip/download/)
-* WinRar - `старый добрый архиватор`
+* WinRar - `старый добрый архиватор`  
 [оф.сайт](https://www.rarlab.com/download.htm),
 [nnm](javascript:nnm("WinRar");)
-* WinDirStat - `очистка диска ПК`
+* WinDirStat - `очистка диска ПК`  
 [оф.сайт](https://windirstat.net/download.html)
-* HxD Hex Editor - `редактор байткода`
+* HxD Hex Editor - `редактор байткода`  
 [оф.сайт](https://mh-nexus.de/en/hxd/)
-* CCleaner - `очистка реестра`
+* CCleaner - `очистка реестра`  
 [nnm](javascript:nnm("CCleaner");)
 
 ___
 ### Безопасность
-* Dr.Web CureIt - `утилита для одноразового лечения`
+* Dr.Web CureIt - `утилита для одноразового лечения`  
 [оф.сайт](http://free.drweb.ru/download+cureit+free/) - 
 [biblprog](https://biblprog.org.ua/ru/dr_web_cureit/download/)
-* AdwCleaner - `простая удалялка рекламы`
+* AdwCleaner - `простая удалялка рекламы`  
 [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) - 
 [biblprog](https://biblprog.org.ua/ru/adwcleaner/download/)
-* MalwareBytes - `годная антивируска`
+* MalwareBytes - `годная антивируска`  
 [оф.сайт](https://ru.malwarebytes.com/) - 
 [ключ](#)
-* Virustotal Uploader - `проверка файла всеми антивирусами`
+* Virustotal Uploader - `проверка файла всеми антивирусами`  
 [оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader)
 
 ___
 ### CD/DVD, образы, загрузочные флешки
-* Rufus  - 
-[оф.сайт](https://rufus.akeo.ie/#download) - `для записи винды на флешку`
+* Rufus  -  - `для записи винды на флешку`
+[оф.сайт](https://rufus.akeo.ie/#download)
 * UltraISO - 
 [nnm(repack)](javascript:nnm("UltraISO");)
-* RusLive dvd - 
-[оф.сайт](http://usbtor.ru/viewtopic.php?t=963) - `загрузочная флешка для восстановления`
-* ZverDVD - 
-[nnm](javascript:nnm("zverdvd");) - `внутри архива есть хорошая подборка программ WPI`
+* RusLive dvd -  - `загрузочная флешка для восстановления`
+[оф.сайт](http://usbtor.ru/viewtopic.php?t=963)
+* ZverDVD -  - `внутри архива есть хорошая подборка программ WPI`
+[nnm](javascript:nnm("zverdvd");)
 * WinSetupFromUSB - 
 [оф.сайт](http://www.winsetupfromusb.com/downloads/) - 
 [biblprog](https://biblprog.org.ua/ru/winsetupfromusb/download/)
@@ -159,8 +159,8 @@ ___
 
 ___
 ###  Драйверы
-* Asus 1015bx - 
-[оф.сайт](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/) - `видео, сеть, тачпад`
+* Asus 1015bx -  - `видео, сеть, тачпад`
+[оф.сайт](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/)
 * Lenovo e530 - 
 [оф.сайт](https://pcsupport.lenovo.com/ua/ru/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-edge-e530/downloads)
 * Driver Pack - 
@@ -175,10 +175,8 @@ ___
 * NetFramework - 
 [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
 * Видеокарты
-  * Nvidia - 
-  [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
-  * AMD - 
-  [оф.сайт](http://support.amd.com/ru-ru/download)
+  * Nvidia - [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
+  * AMD - [оф.сайт](http://support.amd.com/ru-ru/download)
 
 ___
 ### Windows
