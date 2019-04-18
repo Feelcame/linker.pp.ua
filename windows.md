@@ -9,26 +9,50 @@ title:  "Windows soft"
 
 ___
 ### Офис
-* Microsoft Office 2007 - [nnm](javascript:nnm("Microsoft Office 2007 repack by kpojiuk");) - [2007](http://nnm-club.me/forum/viewtopic.php?t=986318) - `документы, таблицы, презентации`
-* Notepad++ - [оф.сайт](http://notepad-plus-plus.org/download/) - [nnm](javascript:nnm("Notepad++");) - `продвинутый блокнот`
-* Abbyy FineReader -  [nnm](javascript:nnm("Abbyy+FineReader");) `распознавание текста`
-* Sprint Layout - [оф.сайт](http://electronic-software-shop.com/sprint-layout-60.html) - [cxem.net](cxem.net/software/sprint_layout.php) - [torrent](javascript:nnm("Sprint+Layout");) - `разводка печатных плат`
-* STDU Viewer - [оф.сайт](http://www.stdutility.com/stduviewer.html) - [biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/) - `читалка djvu, pdf, fb2 и др.`
-* Splan - 
-[оф.сайт](http://electronic-software-shop.com) - 
-[cxem.net](http://cxem.net/software/splan.php) - 
-torrents: [nnm](javascript:nnm("Splan");), [bteye.org](#) - `создание чертежей`
-* Фото на документы - [nnm](javascript:nnm("Фото на документы профи");) - `обработка фото`
+* Microsoft Office 2007 - `документы, таблицы, презентации` 
+[nnm](javascript:nnm("Microsoft Office 2007 repack by kpojiuk");), 
+[2007](http://nnm-club.me/forum/viewtopic.php?t=986318).
+* Notepad++ - `продвинутый блокнот`
+[оф.сайт](http://notepad-plus-plus.org/download/), 
+[nnm](javascript:nnm("Notepad++");).
+* Abbyy FineReader - `распознавание текста`
+[nnm](javascript:nnm("Abbyy+FineReader");).
+* Sprint Layout - `разводка печатных плат`
+[оф.сайт](http://electronic-software-shop.com/sprint-layout-60.html), 
+[cxem.net](cxem.net/software/sprint_layout.php), 
+[torrent](javascript:nnm("Sprint+Layout");)
+* STDU Viewer - `читалка djvu, pdf, fb2 и др.`
+[оф.сайт](http://www.stdutility.com/stduviewer.html), 
+[biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/).
+* Splan - `создание чертежей`
+[оф.сайт](http://electronic-software-shop.com), 
+[cxem.net](http://cxem.net/software/splan.php), 
+torrents: 
+[nnm](javascript:nnm("Splan");), 
+[bteye.org](#).
+* Фото на документы - `обработка фото`
+[nnm](javascript:nnm("Фото на документы профи");).
 
 ___
 ### Мультимедиа
-* PotPlayer - [оф.сайт](http://potplayer.ru/download/) - [nnm](javascript:nnm("PotPlayer");) - `всеядный видеоплеер`
-* AIMP - [оф.сайт](http://aimp.ru) - `плеер музыки`
-* AIMP Remote Control Plugin - [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html) - [маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc) - `управление AIMP с телефона`
-* Audacity - [biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");) - `диктофон`
-* FastStone Capture (от KpoJIuK) - [nnm](javascript:nnm("FastStone Capture KpoJIuK");)  - `скриншотер`
-* Paint.Net - [оф.сайт](http://paintnet.ru/download/) - [biblprog](https://biblprog.org.ua/ru/paint_net/download/) - `рисовалка`
-* Adobe Photoshop - [оф.сайт](http://adobe.com) - [nnm](javascript:nnm("Adobe Photoshop");) - `редактор фото`
+* PotPlayer - `всеядный видеоплеер`
+[оф.сайт](http://potplayer.ru/download/), 
+[nnm](javascript:nnm("PotPlayer");)
+* AIMP - `плеер музыки`
+[оф.сайт](http://aimp.ru).
+* AIMP Remote Control Plugin - `управление AIMP с телефона`
+[оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html), 
+[маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc).
+* Audacity - `диктофон`
+[biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");).
+* FastStone Capture (от KpoJIuK) -   - `скриншотер`
+[nnm](javascript:nnm("FastStone Capture KpoJIuK");).
+* Paint.Net - `рисовалка`
+[оф.сайт](http://paintnet.ru/download/), 
+[biblprog](https://biblprog.org.ua/ru/paint_net/download/)
+* Adobe Photoshop - `редактор фото`
+[оф.сайт](http://adobe.com), 
+[nnm](javascript:nnm("Adobe Photoshop");).
 
 ___
 ### Интернет
