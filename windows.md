@@ -92,12 +92,12 @@ ___
 [nnm](javascript:nnm("Total Commander PowerPack");)
 * Uninstall Tool - `надежная удалялка`  
 [оф.сайт](http://crystalidea.com/ru/uninstall-tool/),
-[nnm](javascript:nnm("Uninstall Tool repack");),
-[rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
+[rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274),
+[nnm](javascript:nnm("Uninstall+Tool+repack");).
 * Your Uninstaller - `лучшая удалялка`  
 [softportal](http://softportal.com/get-2328-your-uninstaller.html),
-[nnm(repack)](javascript:nnm("Your Uninstaller");),
-[rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223)
+[rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223),
+[nnm(repack)](javascript:nnm("Your Uninstaller");).
 * System Explorer - `продвинутый диспетчер задач`  
 [оф.сайт](http://systemexplorer.net/)
 * Start8 (repack) - `кнопка пуск на Win8`  
