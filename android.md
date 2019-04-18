@@ -12,7 +12,7 @@ ___
 [оф.сайт](http://electronic-software-shop.com) - 
 [cxem.net](http://cxem.net/software/splan.php) - 
 torrents: 
-[nnm](javascript:nnm("Splan");), [bteye.org](#) - `создание чертежей` 
+[nnm](javascript:nnm("Splan");), [bteye.org](#) 
 [site](http://electronic-software-shop.com) - `обработка фото`
 
 
