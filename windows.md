@@ -60,68 +60,136 @@ ___
   * Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
   * Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
   * Расширения к ним - [тут](/windows/addons.html)
-* Download Master - [оф.сайт](https://westbyte.com/dm/) - [nnm](javascript:nnm("Download Master repack");)
-* uTorrent 2.2.1 - [оф.сайт](http://utorrent.com/) - [biblprog](https://biblprog.org.ua/ru/utorrent/download/) - [nnm](javascript:nnm("uTorrent");) - [telega](https://telegram.me/filesbot?start=BQADAgAD5gADvVhYSyhm0rOrBa0BAg)
-* NetWorx - [оф.сайт](https://www.softperfect.com/products/networx/) - [biblprog](https://biblprog.org.ua/ru/networx/download/) - `мониторинг скорости интернета`
-* TeamViewer - [оф.сайт](https://www.teamviewer.com/ru/download/windows/) - `удаленное управление`
+* Download Master - 
+[оф.сайт](https://westbyte.com/dm/),
+[nnm](javascript:nnm("Download Master repack");)
+* uTorrent 2.2.1 - 
+[оф.сайт](http://utorrent.com/) - 
+[biblprog](https://biblprog.org.ua/ru/utorrent/download/),
+[nnm](javascript:nnm("uTorrent");),
+[telega](https://telegram.me/filesbot?start=BQADAgAD5gADvVhYSyhm0rOrBa0BAg)
+* NetWorx - 
+[оф.сайт](https://www.softperfect.com/products/networx/),
+[biblprog](https://biblprog.org.ua/ru/networx/download/) - `мониторинг скорости интернета`
+* TeamViewer,
+[оф.сайт](https://www.teamviewer.com/ru/download/windows/) - `удаленное управление`
 
 ___
 ### Общение
-* Telegram - [оф.сайт](https://telegram.org/apps) - [web](web.telegram.org) - `лучший месенджер`
-* Skype - [оф.сайт](https://www.skype.com/ru/get-skype/) - [adblock](#) - `звонилка и файлообменник`
-* Mozilla Thunderbird - [оф.сайт](https://www.thunderbird.net/ru/) - `почтовик`
+* Telegram - 
+[оф.сайт](https://telegram.org/apps),
+[web](web.telegram.org) - `лучший месенджер`
+* Skype 
+[оф.сайт](https://www.skype.com/ru/get-skype/),
+[adblock](#) - `звонилка и файлообменник`
+* Mozilla Thunderbird,
+[оф.сайт](https://www.thunderbird.net/ru/) - `почтовик`
 
 ___
 ### Система
-* Total Commander PowerPack - [оф.сайт](http://ghisler.com/download.htm) - [nnm](javascript:nnm("Total Commander PowerPack");) - `файл-менеджер`
-* Uninstall Tool - [оф.сайт](http://crystalidea.com/ru/uninstall-tool/) - [nnm](javascript:nnm("Uninstall Tool repack");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274) - `надежная удалялка`
-* Your Uninstaller - [softportal](http://softportal.com/get-2328-your-uninstaller.html) - [nnm(repack)](javascript:nnm("Your Uninstaller");) - [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223) - `лучшая удалялка`
-* System Explorer  - [оф.сайт](http://systemexplorer.net/) - `продвинутый диспетчер задач`
-* Start8 (repack) - [nnm](javascript:nnm("Start8");) - `кнопка пуск на Win8`
-* Victoria 4.47 - [softportal](http://www.softportal.com/get-40873-victoria.html) - `тест hdd`
-* Furmark - [оф.сайт](http://www.ozone3d.net/benchmarks/fur/) - `стресс-тест видюхи`
-* CrystalDiscInfo - [biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/) - `проверка диска`
-* Moo0 Bottleneck - [оф.сайт](http://www.moo0.com/software/SystemMonitor) - [softportal](http://www.softportal.com/get-21044-moo0-systemmonitor.html)  - `мониторинг ресурсов ПК`
-* HWInfo - [оф.сайт](https://www.hwinfo.com/download.php) - `конкуренты: AIDA64, Everest`
-* 7-zip - [оф.сайт](https://www.7-zip.org/download.html) - [biblprog](https://biblprog.org.ua/ru/7zip/download/) - `бесплатный архиватор`
-* WinRar - [оф.сайт](https://www.rarlab.com/download.htm) - [nnm](javascript:nnm("WinRar");) - `старый добрый архиватор`
-* WinDirStat - [оф.сайт](https://windirstat.net/download.html) - `очистка диска ПК`
-* HxD Hex Editor - [оф.сайт](https://mh-nexus.de/en/hxd/) - `редактор байткода`
-* CCleaner - [nnm](javascript:nnm("CCleaner");) - `очистка реестра`
+* Total Commander PowerPack - `файл-менеджер`
+[оф.сайт](http://ghisler.com/download.htm),
+[nnm](javascript:nnm("Total Commander PowerPack");)
+* Uninstall Tool - `надежная удалялка`
+[оф.сайт](http://crystalidea.com/ru/uninstall-tool/),
+[nnm](javascript:nnm("Uninstall Tool repack");),
+[rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274)
+* Your Uninstaller - `лучшая удалялка`
+[softportal](http://softportal.com/get-2328-your-uninstaller.html),
+[nnm(repack)](javascript:nnm("Your Uninstaller");),
+[rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223)
+* System Explorer - `продвинутый диспетчер задач`
+[оф.сайт](http://systemexplorer.net/)
+* Start8 (repack) - `кнопка пуск на Win8`
+[nnm](javascript:nnm("Start8");)
+* Victoria 4.47 - `тест hdd`
+[softportal](http://www.softportal.com/get-40873-victoria.html)
+* Furmark - `стресс-тест видюхи`
+[оф.сайт](http://www.ozone3d.net/benchmarks/fur/)
+* CrystalDiscInfo - `проверка диска`
+[biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/)
+* Moo0 Bottleneck - `мониторинг ресурсов ПК`
+[оф.сайт](http://www.moo0.com/software/SystemMonitor),
+[softportal](http://www.softportal.com/get-21044-moo0-systemmonitor.html)
+* HWInfo - `конкуренты: AIDA64, Everest`
+[оф.сайт](https://www.hwinfo.com/download.php)
+* 7-zip - `бесплатный архиватор`
+[оф.сайт](https://www.7-zip.org/download.html),
+[biblprog](https://biblprog.org.ua/ru/7zip/download/)
+* WinRar - `старый добрый архиватор`
+[оф.сайт](https://www.rarlab.com/download.htm),
+[nnm](javascript:nnm("WinRar");)
+* WinDirStat - `очистка диска ПК`
+[оф.сайт](https://windirstat.net/download.html)
+* HxD Hex Editor - `редактор байткода`
+[оф.сайт](https://mh-nexus.de/en/hxd/)
+* CCleaner - `очистка реестра`
+[nnm](javascript:nnm("CCleaner");)
 
 ___
 ### Безопасность
-* Dr.Web CureIt - [оф.сайт](http://free.drweb.ru/download+cureit+free/) - [biblprog](https://biblprog.org.ua/ru/dr_web_cureit/download/) - `утилита для одноразового лечения`
-* AdwCleaner - [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) - [biblprog](https://biblprog.org.ua/ru/adwcleaner/download/) - `простая удалялка рекламы`
-* MalwareBytes - [оф.сайт](https://ru.malwarebytes.com/) - [ключ](#)
-* Virustotal Uploader - [оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader) - `проверка файла всеми антивирусами`
+* Dr.Web CureIt - `утилита для одноразового лечения`
+[оф.сайт](http://free.drweb.ru/download+cureit+free/) - 
+[biblprog](https://biblprog.org.ua/ru/dr_web_cureit/download/)
+* AdwCleaner - `простая удалялка рекламы`
+[оф.сайт](https://ru.malwarebytes.com/adwcleaner/) - 
+[biblprog](https://biblprog.org.ua/ru/adwcleaner/download/)
+* MalwareBytes - `годная антивируска`
+[оф.сайт](https://ru.malwarebytes.com/) - 
+[ключ](#)
+* Virustotal Uploader - `проверка файла всеми антивирусами`
+[оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader)
 
 ___
 ### CD/DVD, образы, загрузочные флешки
-* Rufus  - [оф.сайт](https://rufus.akeo.ie/#download) - `для записи винды на флешку`
-* UltraISO - [nnm(repack)](javascript:nnm("UltraISO");)
-* RusLive dvd - [оф.сайт](http://usbtor.ru/viewtopic.php?t=963) - `загрузочная флешка для восстановления`
-* ZverDVD - [nnm](javascript:nnm("zverdvd");) - `внутри архива есть хорошая подборка программ WPI`
-* WinSetupFromUSB - [оф.сайт](http://www.winsetupfromusb.com/downloads/) - [biblprog](https://biblprog.org.ua/ru/winsetupfromusb/download/)
-* Acronis True Image - [оф.сайт](http://www.acronis.ru/) [nnm](javascript:nnm("Acronis True Image");)
+* Rufus  - 
+[оф.сайт](https://rufus.akeo.ie/#download) - `для записи винды на флешку`
+* UltraISO - 
+[nnm(repack)](javascript:nnm("UltraISO");)
+* RusLive dvd - 
+[оф.сайт](http://usbtor.ru/viewtopic.php?t=963) - `загрузочная флешка для восстановления`
+* ZverDVD - 
+[nnm](javascript:nnm("zverdvd");) - `внутри архива есть хорошая подборка программ WPI`
+* WinSetupFromUSB - 
+[оф.сайт](http://www.winsetupfromusb.com/downloads/) - 
+[biblprog](https://biblprog.org.ua/ru/winsetupfromusb/download/)
+* Acronis True Image - 
+[оф.сайт](http://www.acronis.ru/) 
+[nnm](javascript:nnm("Acronis True Image");)
 
 ___
 ###  Драйверы
-* Asus 1015bx - [оф.сайт](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/) - `видео, сеть, тачпад`
-* Lenovo e530 - [оф.сайт](https://pcsupport.lenovo.com/ua/ru/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-edge-e530/downloads)
-* Driver Pack - [оф.сайт](https://drp.su/ru) - [поштучно](https://drp.su/ru/hwids) - [network](https://drp.su/ru/info/driverpack-network) - [конкурент](https://devid.info)
-* с++ - [rutracker(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
-* DirectX - [оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
-* NetFramework - [оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
+* Asus 1015bx - 
+[оф.сайт](https://www.asus.com/ua/Laptops/Eee_PC_1015BX/HelpDesk_Download/) - `видео, сеть, тачпад`
+* Lenovo e530 - 
+[оф.сайт](https://pcsupport.lenovo.com/ua/ru/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-edge-e530/downloads)
+* Driver Pack - 
+[оф.сайт](https://drp.su/ru) - 
+[поштучно](https://drp.su/ru/hwids) - 
+[network](https://drp.su/ru/info/driverpack-network) - 
+[конкурент](https://devid.info)
+* с++ - 
+[rutracker(repack)](https://rutracker.org/forum/viewtopic.php?t=4594892)
+* DirectX - 
+[оф.сайт](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35)
+* NetFramework - 
+[оф.сайт](https://www.microsoft.com/ru-RU/download/details.aspx?id=56115)
 * Видеокарты
-  * Nvidia - [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
-  * AMD - [оф.сайт](http://support.amd.com/ru-ru/download)
+  * Nvidia - 
+  [оф.сайт](http://www.nvidia.ru/Download/index.aspx?lang=ru)
+  * AMD - 
+  [оф.сайт](http://support.amd.com/ru-ru/download)
 
 ___
 ### Windows
-* Windows 10 - [оф.сайт](http://microsoft.com/) - [nnm](http://nnm-club.me/forum/viewforum.php?f=504) - `качать самую новую версию`
-* Windows 10 LTSB - [nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) - `без Metro-шлака. Очень редко обновляется`
-* Windows 7 -  [nnm](http://nnm-club.me/forum/viewforum.php?f=504) - [key](http://nnm-club.me/forum/viewtopic.php?t=156121)  - `а может семёрка?`
+* Windows 10 - 
+[оф.сайт](http://microsoft.com/) - 
+[nnm](http://nnm-club.me/forum/viewforum.php?f=504) - `качать самую новую версию`
+* Windows 10 LTSB - 
+[nnm-club](http://nnm-club.me/forum/tracker.php?nm=ltsb&f=504) - `без Metro-шлака. Очень редко обновляется`
+* Windows 7 - 
+[nnm](http://nnm-club.me/forum/viewforum.php?f=504) - 
+[key](http://nnm-club.me/forum/viewtopic.php?t=156121)  - `а может семёрка?`
 * Отключить Firewall
 * Отключить "Защитник"
 * Отключить автозапуск OneDrive
