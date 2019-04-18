@@ -9,48 +9,48 @@ title:  "Windows soft"
 
 ___
 ### Офис
-* Microsoft Office 2007 - `документы, таблицы, презентации` 
+* Microsoft Office 2007 - `документы, таблицы, презентации`  
 [nnm](javascript:nnm("Microsoft Office 2007 repack by kpojiuk");), 
 [2007](http://nnm-club.me/forum/viewtopic.php?t=986318).
-* Notepad++ - `продвинутый блокнот` 
+* Notepad++ - `продвинутый блокнот`  
 [оф.сайт](http://notepad-plus-plus.org/download/), 
 [nnm](javascript:nnm("Notepad++");).
-* Abbyy FineReader - `распознавание текста` 
+* Abbyy FineReader - `распознавание текста`  
 [nnm](javascript:nnm("Abbyy+FineReader");).
-* Sprint Layout - `разводка печатных плат` 
+* Sprint Layout - `разводка печатных плат`  
 [оф.сайт](http://electronic-software-shop.com/sprint-layout-60.html), 
 [cxem.net](cxem.net/software/sprint_layout.php), 
 [torrent](javascript:nnm("Sprint+Layout");)
-* STDU Viewer - `читалка djvu, pdf, fb2 и др.` 
+* STDU Viewer - `читалка djvu, pdf, fb2 и др.`  
 [оф.сайт](http://www.stdutility.com/stduviewer.html), 
 [biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/).
-* Splan - `создание чертежей` 
+* Splan - `создание чертежей`  
 [оф.сайт](http://electronic-software-shop.com), 
 [cxem.net](http://cxem.net/software/splan.php), 
 torrents: 
 [nnm](javascript:nnm("Splan");), 
 [bteye.org](#).
-* Фото на документы - `обработка фото` 
+* Фото на документы - `обработка фото`  
 [nnm](javascript:nnm("Фото на документы профи");).
 
 ___
 ### Мультимедиа
-* PotPlayer - `всеядный видеоплеер`
+* PotPlayer - `всеядный видеоплеер`  
 [оф.сайт](http://potplayer.ru/download/), 
 [nnm](javascript:nnm("PotPlayer");)
-* AIMP - `плеер музыки`
+* AIMP - `плеер музыки`  
 [оф.сайт](http://aimp.ru).
-* AIMP Remote Control Plugin - `управление AIMP с телефона`
+* AIMP Remote Control Plugin - `управление AIMP с телефона`  
 [оф.сайт](http://aimpremote.blogspot.com/p/installation-ru.html), 
 [маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc).
-* Audacity - `диктофон`
+* Audacity - `диктофон`  
 [biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");).
-* FastStone Capture (от KpoJIuK) -   - `скриншотер`
+* FastStone Capture (от KpoJIuK) - `скриншотер`  
 [nnm](javascript:nnm("FastStone Capture KpoJIuK");).
-* Paint.Net - `рисовалка`
+* Paint.Net - `рисовалка`  
 [оф.сайт](http://paintnet.ru/download/), 
 [biblprog](https://biblprog.org.ua/ru/paint_net/download/)
-* Adobe Photoshop - `редактор фото`
+* Adobe Photoshop - `редактор фото`  
 [оф.сайт](http://adobe.com), 
 [nnm](javascript:nnm("Adobe Photoshop");).
 
