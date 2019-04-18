@@ -54,7 +54,7 @@ ___
 [маркет](https://play.google.com/store/apps/details?id=com.invised.aimp.rc).  
 `управление AIMP с телефона`
 * Audacity - 
-[biblprog](https://biblprog.org.ua/ru/audacity/download/) - [nnm](javascript:nnm("Audacity");).  
+[biblprog](https://biblprog.org.ua/ru/audacity/download/), [nnm](javascript:nnm("Audacity");).  
 `диктофон`
 * FastStone Capture (от KpoJIuK) - 
 [nnm](javascript:nnm("FastStone Capture KpoJIuK");).  
@@ -74,30 +74,37 @@ ___
   * Chrome - [оф.сайт](https://www.google.ru/chrome/index.html) - [biblprog](https://biblprog.org.ua/ru/google_chrome/download/)
   * Firefox - [оф.сайт](https://www.mozilla.org/ru/firefox/new/) - [biblprog](https://biblprog.org.ua/ru/firefox/download/)
   * Расширения к ним - [тут](/windows/addons.html)
-* Download Master - `качалка файлов`  
+* Download Master - 
 [оф.сайт](https://westbyte.com/dm/),
-[nnm](javascript:nnm("Download Master repack");)
-* uTorrent 2.2.1 - `качалка торрентов`  
+[nnm](javascript:nnm("Download Master repack");).  
+`качалка файлов`
+* uTorrent 2.2.1 - 
 [оф.сайт](http://utorrent.com/) - 
 [biblprog](https://biblprog.org.ua/ru/utorrent/download/),
 [nnm](javascript:nnm("uTorrent");),
-[telega](https://telegram.me/filesbot?start=BQADAgAD5gADvVhYSyhm0rOrBa0BAg)
-* NetWorx - `мониторинг скорости интернета`  
+[telega](https://telegram.me/filesbot?start=BQADAgAD5gADvVhYSyhm0rOrBa0BAg).  
+`качалка торрентов`
+* NetWorx - 
 [оф.сайт](https://www.softperfect.com/products/networx/),
-[biblprog](https://biblprog.org.ua/ru/networx/download/)
-* TeamViewer - `удаленное управление`  
-[оф.сайт](https://www.teamviewer.com/ru/download/windows/)
+[biblprog](https://biblprog.org.ua/ru/networx/download/).  
+`мониторинг скорости интернета`
+* TeamViewer - 
+[оф.сайт](https://www.teamviewer.com/ru/download/windows/).  
+`удаленное управление`
 
 ___
 ### Общение
-* Telegram - `лучший месенджер`  
+* Telegram - 
 [оф.сайт](https://telegram.org/apps),
-[web](web.telegram.org)
-* Skype - `звонилка и файлообменник`   
+[web](web.telegram.org).  
+`лучший месенджер`
+* Skype - 
 [оф.сайт](https://www.skype.com/ru/get-skype/),
-[adblock](#)
-* Mozilla Thunderbird - `почтовик`  
-[оф.сайт](https://www.thunderbird.net/ru/)
+[adblock](#).  
+`звонилка и файлообменник`   
+* Mozilla Thunderbird - 
+[оф.сайт](https://www.thunderbird.net/ru/).  
+`почтовик`  
 
 ___
 ### Система
