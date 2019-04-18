@@ -9,18 +9,20 @@ title:  "Android soft"
 [оф.сайт](http://www.stdutility.com/stduviewer.html),
 [biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/).  
 `читалка djvu, pdf, fb2 и др.`
-* Splan - обработка фото  
+* Splan - 
 [оф.сайт](http://electronic-software-shop.com),
 [cxem.net](http://cxem.net/software/splan.php), 
 torrents: 
 [nnm](javascript:nnm("Splan");), [bteye.org](#), 
 [site](http://electronic-software-shop.com).  
-* Splan - `обработка фото`  
+ - обработка фото  
+* Splan - 
 [оф.сайт](http://electronic-software-shop.com),
 [cxem.net](http://cxem.net/software/splan.php), 
 torrents: 
 [nnm](javascript:nnm("Splan");), [bteye.org](#), 
 [site](http://electronic-software-shop.com).  
+`обработка фото`  
 
 
 ## Офис
