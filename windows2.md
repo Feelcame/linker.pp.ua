@@ -37,7 +37,7 @@ torrents:
 [bteye.org](#).  
 `создание чертежей`
 * Фото на документы - 
-[nnm](javascript:nnm("Фото на документы профи");).
+[nnm](javascript:nnm("Фото на документы профи");).  
 `обработка фото`
 
 ___
@@ -108,44 +108,58 @@ ___
 
 ___
 ### Система
-* Total Commander PowerPack - `файл-менеджер`  
+* Total Commander PowerPack - 
 [оф.сайт](http://ghisler.com/download.htm),
-[nnm](javascript:nnm("Total Commander PowerPack");)
-* Uninstall Tool - `надежная удалялка`  
+[nnm](javascript:nnm("Total Commander PowerPack");).  
+`файл-менеджер`
+* Uninstall Tool - 
 [оф.сайт](http://crystalidea.com/ru/uninstall-tool/),
 [rutracker](https://rutracker.org/forum/viewtopic.php?t=5403274),
-[nnm](javascript:nnm("Uninstall+Tool+repack");).
-* Your Uninstaller - `лучшая удалялка`  
+[nnm](javascript:nnm("Uninstall+Tool+repack");).  
+`надежная удалялка`
+* Your Uninstaller - 
 [softportal](http://softportal.com/get-2328-your-uninstaller.html),
 [rutracker](https://rutracker.org/forum/viewtopic.php?t=4705223),
-[nnm(repack)](javascript:nnm("Your Uninstaller");).
-* System Explorer - `продвинутый диспетчер задач`  
-[оф.сайт](http://systemexplorer.net/)
-* Start8 (repack) - `кнопка пуск на Win8`  
-[nnm](javascript:nnm("Start8");)
-* Victoria 4.47 - `тест hdd`  
-[softportal](http://www.softportal.com/get-40873-victoria.html)
-* Furmark - `стресс-тест видюхи`  
-[оф.сайт](http://www.ozone3d.net/benchmarks/fur/)
-* CrystalDiscInfo - `проверка диска`  
-[biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/)
-* Moo0 Bottleneck - `мониторинг ресурсов ПК`  
+[nnm(repack)](javascript:nnm("Your Uninstaller");).  
+`лучшая удалялка`
+* System Explorer - 
+[оф.сайт](http://systemexplorer.net/).  
+`продвинутый диспетчер задач`
+* Start8 (repack) - 
+[nnm](javascript:nnm("Start8");).  
+`кнопка пуск на Win8`
+* Victoria 4.47 - 
+[softportal](http://www.softportal.com/get-40873-victoria.html).  
+`тест hdd`
+* Furmark - 
+[оф.сайт](http://www.ozone3d.net/benchmarks/fur/).  
+`стресс-тест видюхи`
+* CrystalDiscInfo - 
+[biblprog](https://biblprog.org.ua/ru/crystaldiskinfo/download/).  
+* Moo0 Bottleneck - 
 [оф.сайт](http://www.moo0.com/software/SystemMonitor),
-[softportal](http://www.softportal.com/get-21044-moo0-systemmonitor.html)
-* HWInfo - `конкуренты: AIDA64, Everest`  
-[оф.сайт](https://www.hwinfo.com/download.php)
-* 7-zip - `бесплатный архиватор`  
+[softportal](http://www.softportal.com/get-21044-moo0-systemmonitor.html).  
+`мониторинг ресурсов ПК`
+* HWInfo - 
+[оф.сайт](https://www.hwinfo.com/download.php).  
+`конкуренты: AIDA64, Everest`  
+* 7-zip - 
 [оф.сайт](https://www.7-zip.org/download.html),
-[biblprog](https://biblprog.org.ua/ru/7zip/download/)
-* WinRar - `старый добрый архиватор`  
+[biblprog](https://biblprog.org.ua/ru/7zip/download/).  
+`бесплатный архиватор`
+* WinRar - 
 [оф.сайт](https://www.rarlab.com/download.htm),
-[nnm](javascript:nnm("WinRar");)
-* WinDirStat - `очистка диска ПК`  
-[оф.сайт](https://windirstat.net/download.html)
-* HxD Hex Editor - `редактор байткода`  
-[оф.сайт](https://mh-nexus.de/en/hxd/)
-* CCleaner - `очистка реестра`  
-[nnm](javascript:nnm("CCleaner");)
+[nnm](javascript:nnm("WinRar");),  
+`старый добрый архиватор`  
+* WinDirStat - 
+[оф.сайт](https://windirstat.net/download.html).  
+`очистка диска ПК`
+* HxD Hex Editor - 
+[оф.сайт](https://mh-nexus.de/en/hxd/).  
+`редактор байткода`
+* CCleaner - 
+[nnm](javascript:nnm("CCleaner");).  
+`очистка реестра`
 
 ___
 ### Безопасность
