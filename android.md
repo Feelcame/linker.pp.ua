@@ -170,6 +170,7 @@ ES Explorer v.2.3.6  | [оф.сайт](#) - [4pda](#) - [telega](#) | Файл-�
 
 <script>
 function nnm(name){
-window.open("http://nnm-club.me/forum/tracker.php?nm="+name);
+window.open("http://nnmclub.to/forum/tracker.php?nm="+name);
+window.open("http://nnmclub.to/forum/tracker.php?nm="+name);
 }
 </script>
