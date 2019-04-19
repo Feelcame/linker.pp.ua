@@ -37,7 +37,7 @@ title:  "Android soft"
 ## Мультимедиа
 * **AIMP** - 
 [telega](http://t.me).  
-*простой плеер*
+`простой плеер`
 * Yandex Music - 
 [оф.сайт](http://opera.com),
 [market](#).  
