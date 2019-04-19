@@ -3,6 +3,15 @@ layout: default
 title:  "Android soft"
 ---
 
+## О
+бщение
+* **Telegram** - 
+[оф.сайт](http://t.me),
+[4pda](#),
+[Play](#).  
+* AquaMail - 
+[market](http://t.me).  
+
 
 ## Интернет
 * **Opera** - 
@@ -30,13 +39,6 @@ title:  "Android soft"
 [Play](#).  
 `Торрент-клиент`
 
-## Общение
-* **Telegram** - 
-[оф.сайт](http://t.me),
-[4pda](#),
-[Play](#).  
-* AquaMail - 
-[market](http://t.me).  
 
 ## Офис
 * Kingsoft reader - 
@@ -69,10 +71,11 @@ title:  "Android soft"
 [github](#),
 [F-Droid](#).  
 `Альтернативный клиент Toutube`
-* Hi-Q Recorder - 
+* Hi-Q MP3 Voice Recorder - 
 [оф.сайт](#),
 [4pda](#),
 [Play](#). 
+
 
 ## Система 
 * Titanium Backup - 
