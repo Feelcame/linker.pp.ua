@@ -32,5 +32,6 @@ title: Сайтостроение
 * nic.ua - [link](http://nic.ua), [инфа](#).  
 `регистрация домена pp.ua`
 
-## Примеры
+## Полезное
 * Страничка с примерами сайтов - [examples](./site/examples.html)
+* Софт для работы - [soft](./site/soft.html)
