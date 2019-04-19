@@ -4,26 +4,72 @@ title:  "Android soft"
 ---
 
 
-## Офис
-* **STDU Viewer** - 
-[оф.сайт](http://www.stdutility.com/stduviewer.html),
-[biblprog](https://biblprog.org.ua/ru/stdu_viewer/download/).  
-`читалка djvu, pdf, fb2 и др.`
-* Splan - 
-[оф.сайт](http://electronic-software-shop.com),
-[cxem.net](http://cxem.net/software/splan.php), 
-torrents: 
-[nnm](javascript:nnm("Splan");), [bteye.org](#), 
-[site](http://electronic-software-shop.com).  
-`обработка фото`
-* Splan - 
-[оф.сайт](http://electronic-software-shop.com),
-[cxem.net](http://cxem.net/software/splan.php), 
-torrents: 
-[nnm](javascript:nnm("Splan");), [bteye.org](#), 
-[site](http://electronic-software-shop.com).  
-`обработка фото`
+## Интернет
+* **Opera** - 
+[оф.сайт](http://opera.com),
+[market](#).
+* Opera mini - 
+[telega](http://opera.com).
+* Telegram - 
+[оф.сайт](http://opera.com),
+[market](#).
+* LoaderDroid - 
+[оф.сайт](#),
+[4pda](#),
+[Play](#).
+`Загрузчик`
+* HD VIdeoBox - 
+[оф.сайт](#),
+[4pda](#).
+`Все фильмосайты в одном приложении`
 
+## Офис
+* Kingsoft reader - 
+[telega](http://t.me).
+`читалка docx размером 10Мб`
+* eBookDroid - 
+[оф.сайт](http://opera.com),
+[market](#).  
+* Kingsoft reader - 
+[оф.сайт](http://opera.com),
+[market](#).  
+
+## Мультимедиа
+* AIMP - 
+[telega](http://t.me).
+*простой плеер*
+* Yandex Music - 
+[оф.сайт](http://opera.com),
+[market](#).  
+`Подбор музыки по интересам`
+* NewPipe - 
+[оф.сайт](http://opera.com),
+[github](http://opera.com),
+[F-Droid](#).
+`Альтернативный клиент Toutube`
+
+## Система 
+Titanium Backup - 
+[4pda](#),
+[4pda](#).
+*для удаления системных приложений*
+App Backup and Restore - 
+[Play](#),
+[4pda](#),
+[telega](#).
+*резервные копии програм*
+Total Commander - 
+[оф.сайт](#),
+[4pda](#),
+[Play](#).
+*Файл-менеджер*
+ES Explorer v.2.3.6 - 
+[оф.сайт](#),
+[4pda](#),
+[telega](#).
+*Файл-менеджер и др.*
+
+<!--
 
 ## Офис
 
@@ -33,7 +79,6 @@ WPS Office | [Play](#) | Офис от китайцев
 EBookDroid | [Play](#) | Всеядная читалка 
 
 
-
 ## Мультимедиа
 
 **Название** | **Ссылки** | **Описание**  
@@ -41,19 +86,6 @@ EBookDroid | [Play](#) | Всеядная читалка
 AIMP | [оф.сайт](#) - [4pda](#) - [Play](#) | Простой и удобный плеер
 Яндекс.Музыка | [Play](#) | Музыка по альбомам за $$
 NewPipe | [GitHub](#) - [4pda](#) - [F-Droid](#) | Легкий клиент Youtube
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Инет
@@ -77,7 +109,7 @@ ES Explorer v.2.3.6  | [оф.сайт](#) - [4pda](#) - [telega](#) | Файл-�
 
 
 
-
+-->
 
 
 
