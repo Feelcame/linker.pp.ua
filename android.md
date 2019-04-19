@@ -16,16 +16,16 @@ title:  "Android soft"
 * LoaderDroid - 
 [оф.сайт](#),
 [4pda](#),
-[Play](#).
+[Play](#).  
 `Загрузчик`
 * HD VIdeoBox - 
 [оф.сайт](#),
-[4pda](#).
+[4pda](#).  
 `Все фильмосайты в одном приложении`
 
 ## Офис
 * Kingsoft reader - 
-[telega](http://t.me).
+[telega](http://t.me).  
 `читалка docx размером 10Мб`
 * eBookDroid - 
 [оф.сайт](http://opera.com),
@@ -36,7 +36,7 @@ title:  "Android soft"
 
 ## Мультимедиа
 * AIMP - 
-[telega](http://t.me).
+[telega](http://t.me).  
 *простой плеер*
 * Yandex Music - 
 [оф.сайт](http://opera.com),
@@ -45,28 +45,28 @@ title:  "Android soft"
 * NewPipe - 
 [оф.сайт](http://opera.com),
 [github](http://opera.com),
-[F-Droid](#).
+[F-Droid](#).  
 `Альтернативный клиент Toutube`
 
 ## Система 
 Titanium Backup - 
 [4pda](#),
-[4pda](#).
+[4pda](#).  
 *для удаления системных приложений*
 App Backup and Restore - 
 [Play](#),
 [4pda](#),
-[telega](#).
+[telega](#).  
 *резервные копии програм*
 Total Commander - 
 [оф.сайт](#),
 [4pda](#),
-[Play](#).
+[Play](#).  
 *Файл-менеджер*
 ES Explorer v.2.3.6 - 
 [оф.сайт](#),
 [4pda](#),
-[telega](#).
+[telega](#).  
 *Файл-менеджер и др.*
 
 <!--
