@@ -4,30 +4,33 @@ title: Сайтостроение
 ---
 
 ## Полезная инфа по html
-* Синтаксис - [](#)
-* Новенькое в HTML5 - [](#)
+* Синтаксис - [htmlbook.ru](http://htmlbook.ru/html)
+* Новенькое в HTML5 - [link](#)
 * 
 
 ## Полезная инфа по js
-* Мини учебник - [](#)
-* Бьютифайер - [](#)
+* Мини учебник - 
+[ЧаВо](http://xpoint.ru/forums/programming/javascript/misc/faq.xhtml#750), 
+[Объекты JavaScript](http://citforum.ru/internet/javascript/jsobject.shtml#11).
+* Бьютифайер - [link](https://beautifier.io/)
 * 
 
 ## Полезности по CSS
-* Twitter Bootstrap - [](#)
-* Fancybox - [](#)
+* Twitter Bootstrap - [оф.сайт](https://getbootstrap.com/)
+* Fancybox - [пример](https://www.raytac.com/product/ins.php?index_id=31)
 * 
 
 ## CMS
-* GetSimple - [](#)
-* MODx - [](#)
+* GetSimple - [оф.сайт](https://getsimplecms.ru/samaya-prostaya-cms/ustanovka-getsimple-cms/)
+* MODx - [оф.сайт](https://modx.ru/)
 
 ## Хостиннги
-* Хостинг обыкновенный - [](#)  
+* Хостинг обыкновенный - [ho.ua](http://ho.ua).  
 `1GB, PHP, удобно, дешево`
-* Github Pages - [](#)  
+* Github Pages - [GH Pages](http://pages.github.com), [инфа](#).  
 `Для статики`
-* nic.ua - [](#)  
+* nic.ua - [link](http://nic.ua), [инфа](#).  
 `регистрация домена pp.ua`
 
-
+## Примеры
+* Страничка с примерами сайтов - [examples](./site/examples.html)
