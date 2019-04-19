@@ -10,9 +10,6 @@ title:  "Android soft"
 [market](#).
 * Opera mini - 
 [telega](http://opera.com).
-* **Telegram** - 
-[оф.сайт](http://opera.com),
-[market](#).
 * LoaderDroid - 
 [оф.сайт](#),
 [4pda](#),
@@ -23,16 +20,26 @@ title:  "Android soft"
 [4pda](#).  
 `Все фильмосайты в одном приложении`
 
+## Общение
+* **Telegram** - 
+[оф.сайт](#),
+[4pda](#),
+[Play](#).  
+* AquaMail - 
+[market](http://t.me).  
+
 ## Офис
 * Kingsoft reader - 
 [telega](http://t.me).  
-`читалка docx размером 10Мб`
+`читалка docx`
 * eBookDroid - 
 [оф.сайт](http://opera.com),
 [market](#).  
-* Kingsoft reader - 
+`читалка pdf, djvu, fb2...`
+* StyleNote - 
 [оф.сайт](http://opera.com),
 [market](#).  
+
 
 ## Мультимедиа
 * **AIMP** - 
@@ -53,8 +60,7 @@ title:  "Android soft"
 [4pda](#),
 [4pda](#).  
 *для удаления системных приложений*
-* App Backup and Restore - 
-[Play](#),
+* App Backup and Restore 3.1.1 - 
 [4pda](#),
 [telega](#).  
 *резервные копии програм*
@@ -62,7 +68,11 @@ title:  "Android soft"
 [оф.сайт](#),
 [4pda](#),
 [Play](#).  
-*Файл-менеджер*
+* TC WiFi Transfer Plugin  - 
+[оф.сайт](#),
+[4pda](#),
+[Play](#).  
+*Быстрая передача файлов*
 * ES Explorer v.2.3.6 - 
 [оф.сайт](#),
 [4pda](#),
