@@ -49,25 +49,42 @@ title:  "Android soft"
 `Альтернативный клиент Toutube`
 
 ## Система 
-Titanium Backup - 
+* Titanium Backup - 
 [4pda](#),
 [4pda](#).  
 *для удаления системных приложений*
-App Backup and Restore - 
+* App Backup and Restore - 
 [Play](#),
 [4pda](#),
 [telega](#).  
 *резервные копии програм*
-Total Commander - 
+* Total Commander - 
 [оф.сайт](#),
 [4pda](#),
 [Play](#).  
 *Файл-менеджер*
-ES Explorer v.2.3.6 - 
+* ES Explorer v.2.3.6 - 
 [оф.сайт](#),
 [4pda](#),
 [telega](#).  
 *Файл-менеджер и др.*
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+*  
+
+
+
 
 <!--
 
