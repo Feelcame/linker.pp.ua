@@ -19,10 +19,20 @@ title:  "Android soft"
 [оф.сайт](#),
 [4pda](#).  
 `Все фильмосайты в одном приложении`
+* Яндекс карты - 
+[оф.сайт](#),
+[4pda](#),
+[Play](#).  
+`Пожалуй самые удобные карты`
+* Flud - 
+[оф.сайт](#),
+[4pda](#),
+[Play](#).  
+`Торрент-клиент`
 
 ## Общение
 * **Telegram** - 
-[оф.сайт](#),
+[оф.сайт](http://t.me),
 [4pda](#),
 [Play](#).  
 * AquaMail - 
@@ -37,23 +47,32 @@ title:  "Android soft"
 [market](#).  
 `читалка pdf, djvu, fb2...`
 * StyleNote - 
-[оф.сайт](http://opera.com),
+[оф.сайт](http://nullium.com),
+[market](#).  
+* Колькулятор++ - 
+[оф.сайт](http://nullium.com),
 [market](#).  
 
 
 ## Мультимедиа
 * **AIMP** - 
-[telega](http://t.me).  
+[Оф.сайт](#), 
+[Play](#).  
 `простой плеер`
 * Yandex Music - 
-[оф.сайт](http://opera.com),
+[оф.сайт](#),
+[4pda](#),
 [market](#).  
 `Подбор музыки по интересам`
 * NewPipe - 
-[оф.сайт](http://opera.com),
-[github](http://opera.com),
+[оф.сайт](#),
+[github](#),
 [F-Droid](#).  
 `Альтернативный клиент Toutube`
+* Hi-Q Recorder - 
+[оф.сайт](#),
+[4pda](#),
+[Play](#). 
 
 ## Система 
 * Titanium Backup - 
@@ -68,7 +87,7 @@ title:  "Android soft"
 [оф.сайт](#),
 [4pda](#),
 [Play](#).  
-* TC WiFi Transfer Plugin  - 
+* **TC WiFi Transfer Plugin**  - 
 [оф.сайт](#),
 [4pda](#),
 [Play](#).  
@@ -78,8 +97,14 @@ title:  "Android soft"
 [4pda](#),
 [telega](#).  
 *Файл-менеджер и др.*
-*  
-*  
+*  Lucky Patcher - 
+[оф.сайт](#),
+[4pda](#),
+[telega](#).  
+*  AdAway - 
+[оф.сайт](#),
+[4pda](#),
+[telega](#).  
 *  
 *  
 *  
