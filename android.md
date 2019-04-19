@@ -10,7 +10,7 @@ title:  "Android soft"
 [market](#).
 * Opera mini - 
 [telega](http://opera.com).
-* Telegram - 
+* **Telegram** - 
 [оф.сайт](http://opera.com),
 [market](#).
 * LoaderDroid - 
@@ -35,7 +35,7 @@ title:  "Android soft"
 [market](#).  
 
 ## Мультимедиа
-* AIMP - 
+* **AIMP** - 
 [telega](http://t.me).  
 *простой плеер*
 * Yandex Music - 
@@ -58,7 +58,7 @@ title:  "Android soft"
 [4pda](#),
 [telega](#).  
 *резервные копии програм*
-* Total Commander - 
+* **Total Commander** - 
 [оф.сайт](#),
 [4pda](#),
 [Play](#).  
