@@ -3,8 +3,7 @@ layout: default
 title:  "Android soft"
 ---
 
-## О
-бщение
+## Общение
 * **Telegram** - 
 [оф.сайт](http://t.me),
 [4pda](#),
