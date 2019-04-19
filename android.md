@@ -16,8 +16,8 @@ title:  "Android soft"
 * **Opera** - 
 [оф.сайт](http://opera.com),
 [market](#).
-* Opera mini - 
-[telega](http://opera.com).
+* Opera mini 7.6.4 - 
+[telega](http://t.me).
 * LoaderDroid - 
 [оф.сайт](#),
 [4pda](#),
