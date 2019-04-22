@@ -11,5 +11,6 @@ title: Технологии
 [vip-sxema.org](https://vip-cxema.org/index.php/online-raschjoty).
 * Проверка акустики - 
 [rmaa](http://audio.rightmark.org/products/rmaa_rus.shtml).
-* 
+* Цифровые процессоры
+[](http://digteh.ru/dsp/DSP/)
 * 
