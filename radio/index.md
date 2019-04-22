@@ -12,5 +12,5 @@ title: Технологии
 * Проверка акустики - 
 [rmaa](http://audio.rightmark.org/products/rmaa_rus.shtml).
 * Цифровые процессоры
-[](http://digteh.ru/dsp/DSP/)
+[digteh.ru](http://digteh.ru/dsp/DSP/)
 * 
