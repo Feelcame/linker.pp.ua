@@ -15,3 +15,20 @@ show_downloads: false
 * [Немножко о сайтостроении](./site/)
 * [Электронные схемы](./radio/)
 * рекламу [моего канала](https://t.me/FilmsRM) с фильмами
+
+
+
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138884052-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-138884052-1');
+</script>
