@@ -33,6 +33,6 @@ title: Сайтостроение
 `регистрация домена pp.ua`
 
 ## Полезное
-* Страничка с примерами сайтов - [examples](./site/examples.html)
-* Софт для работы - [soft](./site/soft.html)
-* Инфа про markdown  - [soft](./site/markdown.html)
+* Страничка с примерами сайтов - [examples](/site/examples.html)
+* Софт для работы - [soft](/site/soft.html)
+* Инфа про markdown  - [soft](/site/markdown.html)
