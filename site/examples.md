@@ -3,7 +3,23 @@ layaut: default
 title: Примеры
 ---
 
-## Примеры для подражания
+## Идейные вдохновители
 * Nullium - [about](http://nullium.com/about/)
-`make site with love`
-* kollad.ru
+`handcrafted site`
+* kollad.ru - [about](http://kollad.ru)
+`боги дизайна :)`
+
+
+## Каталоги программ
+* 4PDA - [link](http://4pda.ru/forum/index.php?act=idx)
+`Форум с высоким уровнем структурированности. Есть каталог программ. Отбирается вручную пользователями форума`
+* Tegos.ru - [link](http://tegos.kz/zagruzki/zagruzki.xhtml)
+`Pагрузки для телефона. Простой и красивый интерфейс. Интересный раздел "Андроид"`
+* Tevas.me - [link](http://tevas.me/)
+`Кинотеатр с каталогом фильмов от авторов tegos.ru`
+* Biblprog.org.ua - [link](https://biblprog.org.ua/ru/)
+`Каталог бесплатных  программ`
+* Android+1 - [link](https://www.androidp1.com//)
+`Кравивый каталог программ для андроида. Адаптивная шапка`
+* site - [link](http://)
+`site`
