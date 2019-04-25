@@ -8,8 +8,8 @@ title: Примеры
 `handcrafted site`
 * **Kollad dev team** - [home](http://kollad.ru)  
 `"боги" дизайна :)`
-* **Хостинг обыкновенный** - [Link](https://www.ho.ua/ru/), [f.a.q](https://www.ho.ua/ru/faq.html)  
-`Простой и приятный дизайн сайта. Удобный раздел faq`
+* **Хостинг обыкновенный** - [Link](https://www.ho.ua/ru/), [faq](https://www.ho.ua/ru/faq.html)  
+`Простой и приятный дизайн сайта. Удобный раздел ЧаВо`
 
 
 ## Каталоги программ
