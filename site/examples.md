@@ -10,10 +10,10 @@ title: Примеры
 `"боги" дизайна :)`
 
 ## Каталоги программ
-* **4PDA** - [link](http://4pda.ru/forum/index.php?act=idx)  
+* **4PDA** - [home](http://4pda.ru/), [forum](http://4pda.ru/forum/index.php?act=idx).  
 `Форум. Есть каталог программ. Отбирается вручную юзерами форума`
-* **Tegos.ru** - [link](http://tegos.kz/zagruzki/zagruzki.xhtml)  
-`Pагрузки для телефона. Простейший интерфейс. Интересный раздел "Андроид"`
+* **Tegos.ru** - [home](http://tegos.kz/zagruzki/zagruzki.xhtml), [Android](http://tegos.kz/android/).  
+`Загрузки для телефона. Минимум дизайна, максимум контента`
 * **Tevas.me** - [link](http://tevas.me/)  
 `Кинотеатр с каталогом фильмов от авторов tegos.ru`
 * **Biblprog.org.ua** - [link](https://biblprog.org.ua/ru/)  
