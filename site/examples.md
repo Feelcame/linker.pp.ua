@@ -4,10 +4,13 @@ title: Примеры
 ---
 
 ## Идейные вдохновители
-* Nullium - [about](http://nullium.com/about/)  
+* **Nullium** - [about](http://nullium.com/about/)  
 `handcrafted site`
-* kollad.ru - [about](http://kollad.ru)  
+* **Kollad dev team** - [home](http://kollad.ru)  
 `"боги" дизайна :)`
+* **Хостинг обыкновенный** - [Link](https://www.ho.ua/ru/)  
+`Простой и приятный дизайн сайта`
+
 
 ## Каталоги программ
 * **4PDA** - [home](http://4pda.ru/), [forum](http://4pda.ru/forum/index.php?act=idx).  
