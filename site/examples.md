@@ -7,8 +7,7 @@ title: Примеры
 * Nullium - [about](http://nullium.com/about/)  
 `handcrafted site`
 * kollad.ru - [about](http://kollad.ru)  
-`боги дизайна :)`
-
+`"боги" дизайна :)`
 
 ## Каталоги программ
 * **4PDA** - [link](http://4pda.ru/forum/index.php?act=idx)  
