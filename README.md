@@ -1,5 +1,5 @@
 ## Feelcame`s official page
 
-* Home - [link](http://feelcame.gitthub.io)
-* Alias - [link](http://lister.pp.ua)
-* Alias2 - [link](http://linker.pp.ua)
+* Home - [feelcame.gitthub.io](http://feelcame.gitthub.io)
+* Alias - [lister.pp.ua](http://lister.pp.ua)
+* Alias2 - [linker.pp.ua](http://linker.pp.ua)
