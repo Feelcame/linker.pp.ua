@@ -1,13 +1,8 @@
 ---
 layout: bs
-title:  "Android soft"
+title:  "Bootstrap say hello"
 ---
 
 # Hello world!
-## Общение
-* **Telegram** - 
-[оф.сайт](http://t.me),
-[4pda](#),
-[Play](#).  
-* AquaMail - 
-[market](http://t.me).  
+## Use this document as a way to quickly start any new project.  
+## All you get is this text and a mostly barebones HTML document.
