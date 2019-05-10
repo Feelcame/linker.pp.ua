@@ -6,6 +6,7 @@ title: Сайтостроение
 ## Полезная инфа по html
 * Синтаксис - [htmlbook.ru](http://htmlbook.ru/html)
 * Новенькое в HTML5 - [link](#)
+* Код элементов темы architect - [link](./architect)
 * 
 
 ## Полезная инфа по js
