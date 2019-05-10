@@ -2,7 +2,7 @@
 layout: default
 title: RMn
 description: Налетай!
-show_downloads: false
+show_downloads: true
 ---
 
 # Главное
