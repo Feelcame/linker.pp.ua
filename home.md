@@ -1,13 +1,12 @@
 ---
 layout: home
 title: RMn
-description: Налетай!
 show_downloads: false
 ---
 
-# Главное
+# Welcome to Feelcame's site!
 
-### На сайте найдете:
+### Heres we can see:
 * [Программы для Android](./android.html)
 * [Программы для Windows](/windows.html)
 * [Расширения к браузерам](windows/addons.html)
