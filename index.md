@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RMn
-show_downloads: true
+show_downloads: false
 ---
 
 # Welcome to Feelcame's official site!
