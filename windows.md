@@ -177,6 +177,9 @@ ___
 * **Virustotal Uploader** - 
 [оф.сайт](https://www.virustotal.com/ru/documentation/desktop-applications/windows-uploader).  
 `проверка файла всеми антивирусами`  
+* **Unchecky** - 
+[оф.сайт](#).  
+`автоматическое снятие галочек`  
 
 ___
 ### CD/DVD, образы, загрузочные флешки
