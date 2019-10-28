@@ -19,7 +19,7 @@ title: Сайтостроение
 ## Полезности по CSS
 * Twitter Bootstrap - [оф.сайт](https://getbootstrap.com/)
 * Fancybox - [пример](https://www.raytac.com/product/ins.php?index_id=31)
-* 
+* CSS Grid - [здесь](css-grid/)
 
 ## CMS
 * GetSimple - [оф.сайт](https://getsimplecms.ru/samaya-prostaya-cms/ustanovka-getsimple-cms/)
