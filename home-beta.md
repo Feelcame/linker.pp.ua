@@ -8,13 +8,13 @@ show_downloads: false
 
 ### [](#header-6)Heres we can see:
 
-| head1        | head two          | three |
 | [Программы для Android](./android.html) | [Программы для Windows](/windows.html) | [Расширения к браузерам](windows/addons.html) |
+|:-------------|:------------------|:------|
 | [Музончик всех времён](music.html) | [Немножко о сайтостроении](./site/)   | [Электронные схемы](./radio/)  |
-| рекламу [моего канала](https://t.me/FilmsRM) с фильмами | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| рекламу [моего канала](https://t.me/FilmsRM) с фильмами | и очень      | много    |
+| других           | полезных  | штук  |
 
 ### There's a horizontal rule below this.
 
 * * *
-|:-------------|:------------------|:------|
+
