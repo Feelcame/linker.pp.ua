@@ -1,25 +1,21 @@
 ---
-layout: default
-title: RMn
-show_downloads: false
+layout: home
+title: Linker
+modified: 2020-07-16T13:31:13+03:00
 ---
 
-# Welcome to Feelcame's official site!
+![](./assets/arrow-home.png)
+{: style="text-align:center"}
 
-## Here you can see:
-* [Программы для Android](./android.html)  
-* [Программы для Windows](/windows.html)  
-* [Расширения к браузерам](windows/addons.html)  
-* [Музончик всех времён](music.html)  
-* [Немножко о сайтостроении](./site/)  
-* [Электронные схемы](./radio/)  
-* [Годные телеграм-каналы](https://t.me/FilmsRM)  
+## Для продолжения выбери интересующий раздел выше
+Да, именно так этот сайт и работает. Это не блог и не коммерческий проект. 
+Стоковый дизайн не помешает сделать размещенную здесь информацию максимально полезной для пользователя. 
+Так что, Welcome! :+1: 
 
+[Блог](/blog.md)
 
-
-
-
-
-
-
-
+### Полезные ссылки:
+**<https://t.me/feelsoft>** - телеграм канал с авторскими подборками программ  
+**<https://t.me/FilmsRM>** - канал с рекомендациями супер-класных фильмов  
+[**Контакты**](/about.md) - см. страницу "о нас"  
+<https://github.com/Feelcame/linker.pp.ua/search?q=запрос>

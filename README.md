@@ -1,5 +1,15 @@
-## Feelcame`s official page
 
-* Home - [feelcame.github.io](http://feelcame.github.io)
-* Alias - [lister.pp.ua](http://lister.pp.ua)
-* Alias2 - [linker.pp.ua](http://linker.pp.ua)
+# linker.pp.ua
+
+Сайт линкер  
+http://linker.pp.ua  
+http://feelcame.github.io/linker.pp.ua
+
+
+Сделать:  
+-[x] Сворачиваемую навигацию для телефонов  
+-[] Кнопочку "вверх" чтобы летала справа внизу  
+-[] Чтобы нажатие кнопки вверх разворачивало навигацию и оповещало об этом строкой над "content"
+Сделать комменты активируемыми через параметр  
+-[] когда на телефоне нажимаешь открыть навигацию - не нужно переходить по ссылке
+
